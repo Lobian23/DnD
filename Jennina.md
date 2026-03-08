@@ -1,7 +1,9 @@
 # Grunddaten 
 - ***Name:*** Jennina
-- ***Volk:*** Waldelf
+- - ***Volk:*** Waldelf
 - ***Klasse:*** Kleriker
+- ***Stufe:*** 1
+- ***XP:*** 0    
 - ***Domäne:*** Natur
 - ***Gottheit:*** Mielikki
 - ***Hintergrund:*** Gelehrter
