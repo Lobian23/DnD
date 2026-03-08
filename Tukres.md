@@ -2,6 +2,8 @@
 - ***Name:*** Tukres
 - ***Volk:*** Mensch
 - ***Klasse:*** Kämpfer, Champion
+- ***Stufe:*** 1
+- ***XP:*** 0
 - ***Geschlecht:*** Männlich
 - ***Alter:*** 24 Jahre
 
