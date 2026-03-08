@@ -32,20 +32,20 @@
 - Geschichte
 - Wahrnehmung
 
+# Volksfähigkeiten
+- Dunkelsicht
+- Feenabstammung
+- Trance
+- Geschärfte Sinne
+- Elfische Waffenvertrautheit
+- Schnelle Füße
+- Deckmantel der Wildnis
+
 # Sprachen
 - Gemeinsprache
 - Elfisch
 - Himmlisch
 - Sylvan
-
-# Waffen
-- Streitkolben
-- Leichte Armbrust
-- 20 Bolzen
-
-# Rüstung
-- Lederrüstung
-- Schild
 
 # Zaubertricks
 - Dornenpeitsche
@@ -60,6 +60,26 @@
 - Heilendes Wort
 - Lenkendes Geschoss
 - Schild des Glaubens
+
+# Inventar
+## Waffen
+- Streitkolben
+- Leichte Armbrust
+- 20 Bolzen
+
+## Rüstung
+- Lederrüstung
+- Schild
+
+## Sonstiges
+- Rucksack
+- Bettrolle
+- Essgeschirr
+- Zunderbüchse
+- 10 Fackeln
+- 10 Rationen Essen
+- Wasserflasche
+- 15 m Hanfseil
 
 # Hintergrundgeshichte
 Als junge Waldelfe verbrachte sie ihre Kindheit zwischen uralten Bäumen und lernte früh, die
