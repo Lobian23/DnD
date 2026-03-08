@@ -68,6 +68,7 @@ Göttin Mielikki und schwor, die Natur zu schützen. Mit kaum zwanzig Jahren ver
 Heimat, um das Gleichgewicht der Wildnis in der Welt zu bewahren.
 
 # Besonderheiten
+- Ihr heiliges Symbol ist ein Amulett, auf dem ein Einhornkopf zu sehen ist
 - Jennina's Zauber schimmern, strahlen und leuchten in rosa. Das ist einzigartig. 
 
 
