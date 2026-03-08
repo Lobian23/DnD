@@ -67,4 +67,7 @@ Stimmen des Waldes zu hören. In den Schriften eines alten Heiligtums studierte 
 Göttin Mielikki und schwor, die Natur zu schützen. Mit kaum zwanzig Jahren verlässt sie nun ihre
 Heimat, um das Gleichgewicht der Wildnis in der Welt zu bewahren.
 
+# Sonsige wichtige Inofs:
+- ***Heilzauberfarbe:*** Rosa
+
 
