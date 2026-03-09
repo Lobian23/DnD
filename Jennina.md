@@ -101,7 +101,7 @@ Forscher
 Als junge Waldelfe verbrachte sie ihre Kindheit zwischen uralten Bäumen und lernte früh, die
 Stimmen des Waldes zu hören. In den Schriften eines alten Heiligtums studierte sie die Lehren der
 Göttin Mielikki und schwor, die Natur zu schützen. Mit kaum zwanzig Jahren verlässt sie nun ihre
-Heimat, um das Gleichgewicht der Wildnis in der Welt zu bewahren.
+Heimat, um das Gleichgewicht der Wildnis in der Welt zu bewahren. Sie ist auf der Suche nach der großen Liebe.
 
 # Besonderheiten
 - Ihr heiliges Symbol ist ein Amulett, auf dem ein Einhornkopf zu sehen ist
