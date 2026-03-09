@@ -89,7 +89,7 @@ Forscher
 - Wasserflasche
 - 15 m Hanfseil
 
-## Hintergrund - Gelehrter
+## Startausrüstung - Gelehrter
 - Flasche schwarze Tinte
 - Federkiel
 - Kleines Messer
