@@ -73,6 +73,25 @@ Militärischer Rang
 - Zweiter Atemzug
 - ***Kampfstil:*** Großer Waffenstil
 
+# Aussehen
+## Gesicht und Ausdruck
+- Markantes, kantiges Gesicht mit kräftigem Kiefer
+- Kurzer, gepflegter Bart und leichter Schnurrbart
+- Intensive blau-grüne Augen, die entschlossen und aufmerksam wirken
+- Leicht wettergegerbte Haut, als wäre er viel draußen unterwegs
+
+## Haare
+- Langes, braunes Haar, das bis etwa zu den Schultern reicht
+- Wirkt etwas feucht oder zerzaust, wodurch er sehr wild und natürlich aussieht
+
+## Körperbau
+- Groß und sehr muskulös, besonders breite Schultern und kräftige Arme
+- Athletischer, kampferprobter Körperbau
+
+## Besonderes Merkmal
+Auf seinem linken Oberarm befindet sich ein seltsames Brandmal: vier schräge, von links unten nach rechts oben, krallenartige Narben, aus deren Tiefe sich eine grünlich-schwarze, ständig bewegende Substanz windet. Wie ein dünner violetter Schleier aus magischem Rauch scheint das Mal zu umgeben.
+
+
 # Persönlichkeit des Charakters
 ## Persönlichkeitsmerkmal
 Ich bleibe selbst in Gefahr ruhig, als hätte ich Schlimmeres gesehen
