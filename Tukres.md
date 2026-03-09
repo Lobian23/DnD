@@ -5,7 +5,7 @@
 - ***Stufe:*** 1
 - ***XP:*** 0
 - ***Geschlecht:*** Männlich
-- ***Alter:*** 24 Jahre
+- ***Alter:*** 23 Jahre
 
 # Attribute
 - ***Stärke:*** 16 +3
@@ -87,5 +87,5 @@ Meine Eltern leben vielleicht noch irgendwo in den Höllenreichen. Ich werde sie
 Bei Erwähnung von Dämonen oder meinen Eltern verliere ich leicht die Kontrolle.
 
 # Hintergrundgeschichte
-Tukres verschwand als Kind spurlos, nachdem Dämonen ihn aus der Welt der Sterblichen verschleppt hatten. Niemand weiß, was sie mit ihm taten oder wie lange er in ihrer Gewalt war. Jahre später tauchte er plötzlich wieder auf, bewusstlos am Rand eines Waldes, als hätte ihn eine fremde Welt wieder ausgespuckt. Seine Erinnerungen waren ausgelöscht, doch auf seinem Arm brannte nun eine unheimliche Tätowierung, deren fremde Zeichen sich wie lebendige Linien über seine Haut ziehen. Manchmal scheint das Mal zu pulsieren, als stamme seine Kraft aus einer dunklen Ebene jenseits dieser Welt. Später erfuhr Tukres, dass auch seine Eltern Jahre nach seinem Verschwinden von denselben Dämonen verschleppt wurden – doch sie kehrten nie zurück. Seitdem trägt er eine schwere Gewissheit in sich: Vielleicht leben sie noch irgendwo in den Tiefen der Höllenreiche. Tukres schwor sich, stark genug zu werden, um die Dämonen aufzuspüren, seine Eltern zu finden und schließlich ihren Anführer zu vernichten.
+Als Tukres acht Jahre alt war, wurde sein Leben in einer einzigen Nacht zerstört. Dämonen brachen in das Haus seiner Familie ein und rissen ihn aus dem Bett. Er erinnert sich noch an die Schreie seiner Eltern, an ihre verzweifelten Versuche, ihn festzuhalten – und daran, wie ihre Hände ihm schließlich entglitten, als die Kreaturen ihn in die Dunkelheit zerrten. Danach folgt nur Leere. Neun Jahre seines Lebens verschwanden aus seinem Gedächtnis. Mit siebzehn Jahren erwachte Tukres plötzlich am Rand eines einsamen Waldes. Er war allein, geschwächt und ohne jede Erinnerung daran, wo er gewesen war oder wie er zurückgekehrt war. Es war, als hätte eine fremde Welt ihn ausgespuckt. Doch etwas war geblieben. Auf seinem linken Oberarm befand sich ein seltsames Brandmal: vier schräge, krallenartige Narben, aus deren Tiefe sich eine grünlich-schwarze, ständig bewegende Substanz windet. Wie ein dünner Schleier aus magischem Rauch scheint sie das Mal zu umgeben. Manchmal pulsiert es schwach, als würde etwas in ihm leben. Tukres vermutet, dass es eine dämonische Markierung ist – vielleicht eine Zählung oder Kennzeichnung von Sklaven. Doch die wahre Bedeutung dieses Zeichens kennt er nicht. Bald erfuhr er eine noch grausamere Wahrheit: Auch seine Eltern wurden nach seinem Verschwinden von Dämonen verschleppt – und kehrten niemals zurück. Seitdem brennt ein einziger Gedanke in seinem Herzen. Vielleicht leben sie noch. Vielleicht warten sie irgendwo in den Tiefen der Höllenreiche. Tukres hat sich geschworen, stark genug zu werden, um die Dämonen aufzuspüren, seine Eltern zu finden – und den Anführer der Kreaturen zu vernichten, die ihm seine Kindheit und seine Familie genommen haben.
 
