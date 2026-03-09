@@ -34,7 +34,10 @@ Soldat
 # Hintergrundfähigkeit
 Militärischer Rang
 
-# Startausrüstung
+# Inventar
+- Klobrille
+
+## Startausrüstung Soldat
 - Rangabzeichen
 - Trophäe eines besiegten Feindes
 - Spielset
