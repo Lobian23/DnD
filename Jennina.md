@@ -69,6 +69,12 @@
 - Leichte Armbrust
 - 20 Bolzen
 
+# Hintergrund
+Gelehrte
+
+# Hintergrundfähigkeit
+Forscher
+
 ## Rüstung
 - Lederrüstung
 - Schild
