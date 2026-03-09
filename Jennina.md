@@ -55,7 +55,7 @@
 - Göttliche Führung
 - Ausbessern
 
-# Zauber Grad 1
+# Vorbereitete Zauber
 - Tierfreundschaft
 - Mit Tieren sprechen
 - Wunden heilen
