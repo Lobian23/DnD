@@ -83,6 +83,14 @@
 - Wasserflasche
 - 15 m Hanfseil
 
+## Hintergrund - Gelehrter
+- Flasche schwarze Tinte
+- Federkiel
+- Kleines Messer
+- Brief eines verstorbenen Kollegen
+- Satz gewöhnlicher Kleidung
+- Gürtelbeutel mit 10 Goldmünzen
+
 # Hintergrundgeshichte
 Als junge Waldelfe verbrachte sie ihre Kindheit zwischen uralten Bäumen und lernte früh, die
 Stimmen des Waldes zu hören. In den Schriften eines alten Heiligtums studierte sie die Lehren der
