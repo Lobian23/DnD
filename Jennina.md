@@ -73,7 +73,7 @@
 - Lederrüstung
 - Schild
 
-## Sonstiges
+## Entdeckerpaket
 - Rucksack
 - Bettrolle
 - Essgeschirr
