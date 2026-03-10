@@ -43,6 +43,9 @@
 # Hintergrund
 Soldat
 
+# Beruf
+Soldat der Stadtgarde von Eisenfurt
+
 # Werkzeugübung
 - Spielset
 - Landfahrzeuge
