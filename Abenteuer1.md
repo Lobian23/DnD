@@ -6,21 +6,21 @@
 Diese Kampagne ist für zwei Charaktere gedacht:
 
 - **Jennina** – Waldelfe, Klerikerin der Göttin Mielikki
-- **Tukres** – Menschlicher Kämpfer mit einem dämonischen Brandmal
+- **Toragorn** – Menschlicher Kämpfer mit einem dämonischen Brandmal
 
 Die Geschichte beginnt mit verschwundenen Tieren im Wald und entwickelt sich zu einer größeren dämonischen Bedrohung.
 
-Wichtiger erzählerischer Bestandteil dieser Kampagne ist die mögliche Entwicklung einer **romantischen Beziehung zwischen Jennina und Tukres**.
+Wichtiger erzählerischer Bestandteil dieser Kampagne ist die mögliche Entwicklung einer **romantischen Beziehung zwischen Jennina und Toragorn**.
 
-### Beziehung zwischen Jennina und Tukres
+### Beziehung zwischen Jennina und Toragorn
 
-Jennina fühlt sich schon früh zu Tukres hingezogen.  
-Sie ist jedoch sehr **schüchtern, vorsichtig und emotional zurückhaltend**. Besonders in Gegenwart von Tukres kann sie nervös werden, ihre Worte verheddern sich manchmal.
+Jennina fühlt sich schon früh zu Toragorn hingezogen.  
+Sie ist jedoch sehr **schüchtern, vorsichtig und emotional zurückhaltend**. Besonders in Gegenwart von Toragorn kann sie nervös werden, ihre Worte verheddern sich manchmal.
 
-Tukres wiederum entwickelt ebenfalls Gefühle für Jennina, doch aufgrund seiner düsteren Vergangenheit und seiner vorsichtigen Natur reagiert er **langsam und zurückhaltend**.
+Toragorn wiederum entwickelt ebenfalls Gefühle für Jennina, doch aufgrund seiner düsteren Vergangenheit und seiner vorsichtigen Natur reagiert er **langsam und zurückhaltend**.
 
 - Jennina zeigt Gefühle früher, aber indirekt.
-- Tukres braucht Zeit, Vertrauen und gemeinsame Erlebnisse.
+- Toragorn braucht Zeit, Vertrauen und gemeinsame Erlebnisse.
 - Beide Charaktere können sich im Laufe der Kampagne näherkommen.
 
 Eine **Liebesbeziehung ist möglich**, aber nicht garantiert. Sie entsteht nur, wenn sich die Charaktere im Spiel entsprechend entwickeln.
@@ -60,7 +60,7 @@ Bekannt für:
 - Händler und Reisende
 - Jäger und Holzfäller
 
-Tukres dient hier als Soldat.
+Toragorn dient hier als Soldat.
 
 ---
 
@@ -81,7 +81,7 @@ Bevor er stirbt, hinterlässt er Jennina einen Brief.
 
 Kommandant der Garnison von Eisenfurt.
 
-Er beauftragt Tukres damit, ungewöhnliche Ereignisse im Wald zu untersuchen.
+Er beauftragt Toragorn damit, ungewöhnliche Ereignisse im Wald zu untersuchen.
 
 ---
 
@@ -144,7 +144,7 @@ Jennina macht sich auf den Weg.
 
 ---
 
-## Tukres
+## Toragorn
 
 In Eisenfurt häufen sich Berichte:
 
@@ -152,7 +152,7 @@ In Eisenfurt häufen sich Berichte:
 - seltsame Geräusche im Wald
 - verlassene Fallen
 
-Hauptmann Roderik gibt Tukres den Auftrag:
+Hauptmann Roderik gibt Toragorn den Auftrag:
 
 - untersuche die Quelle der Vorfälle
 
@@ -162,7 +162,7 @@ Spuren führen zum Runenkreis von Aelthir.
 
 # Erstes Treffen
 
-Jennina und Tukres erreichen unabhängig voneinander den Druidenkreis.
+Jennina und Toragorn erreichen unabhängig voneinander den Druidenkreis.
 
 Beschreibung:
 
@@ -176,7 +176,7 @@ Erste Gegner:
 
 Nach dem Kampf entdecken sie Hinweise auf dämonische Energie.
 
-Dies ist auch der Moment, in dem Jennina und Tukres sich zum ersten Mal begegnen.
+Dies ist auch der Moment, in dem Jennina und Toragorn sich zum ersten Mal begegnen.
 
 ---
 
@@ -196,19 +196,19 @@ Sie reisen zu:
 
 Ziel: Das Ritual zur Reinigung rekonstruieren.
 
-Während dieser Reise entwickelt sich langsam Vertrauen zwischen Jennina und Tukres.
+Während dieser Reise entwickelt sich langsam Vertrauen zwischen Jennina und Toragorn.
 
 ---
 
-# Verbindung zu Tukres
+# Verbindung zu Toragorn
 
-Das dämonische Mal auf Tukres reagiert auf die Energie des Risses.
+Das dämonische Mal auf Toragorn reagiert auf die Energie des Risses.
 
 Später stellt sich heraus:
 
-Die Dämonen, die Tukres entführten, gehören zu einem Kult, der versucht den Riss vollständig zu öffnen.
+Die Dämonen, die Toragorn entführten, gehören zu einem Kult, der versucht den Riss vollständig zu öffnen.
 
-Tukres wurde damals markiert, um später als Schlüssel für ein Ritual zu dienen.
+Toragorn wurde damals markiert, um später als Schlüssel für ein Ritual zu dienen.
 
 ---
 
@@ -229,7 +229,7 @@ Die Helden müssen:
 - den Riss schließen
 
 Jennina nutzt das Ritual von Mielikki.  
-Tukres widersteht der dämonischen Macht seines Mals.
+Toragorn widersteht der dämonischen Macht seines Mals.
 
 Der Riss wird versiegelt.
 
@@ -241,8 +241,8 @@ Der Wald beginnt zu heilen.
 
 Silvanhain wird gerettet.
 
-Tukres erkennt, dass sein Schicksal mit den Dämonen noch nicht vorbei ist.
+Toragorn erkennt, dass sein Schicksal mit den Dämonen noch nicht vorbei ist.
 
-Jennina und Tukres haben auf ihrer Reise eine besondere Verbindung aufgebaut.
+Jennina und Toragorn haben auf ihrer Reise eine besondere Verbindung aufgebaut.
 
 Ob daraus Liebe entsteht, liegt in den Entscheidungen der beiden Charaktere.
