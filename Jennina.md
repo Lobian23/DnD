@@ -93,14 +93,14 @@ Forscher
 - Flasche schwarze Tinte
 - Federkiel
 - Kleines Messer
-- Brief eines verstorbenen Kollegen
+- Brief des verstorbenen Kollegen Arvion Thalendir
 - Satz gewöhnlicher Kleidung
 - Gürtelbeutel mit 10 Goldmünzen
 
 # Besonderheiten
 - Ihr heiliges Symbol ist ein Amulett, auf dem ein Einhornkopf zu sehen ist
 - Jennina's Zauber schimmern, strahlen und leuchten in rosa. Das ist einzigartig.
-- Sie ist auf der Suche nach der großen Liebe
+- Sie ist auf der Suche nach der großen Liebe, aber sehr vorsichtig dabei
 
 
 # Hintergrundgeshichte
