@@ -85,8 +85,8 @@ Forscher
 - Essgeschirr
 - Zunderbüchse
 - 10 Fackeln
-- 10 Rationen Essen
-- Wasserflasche
+- 10 Tagesrationen
+- Wasserschlauch
 - 15 m Hanfseil
 
 ## Startausrüstung - Gelehrter
