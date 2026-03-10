@@ -108,4 +108,48 @@ Meine Eltern leben vielleicht noch irgendwo in den Höllenreichen. Ich werde sie
 Bei Erwähnung von Dämonen oder meinen Eltern verliere ich leicht die Kontrolle.
 
 # Hintergrundgeschichte
-Toragorn wurde als Sohn einfacher Leute geboren und verbrachte eine ruhige Kindheit mit seinen Eltern. Doch als er acht Jahre alt war, wurde sein Leben in einer einzigen Nacht zerstört. Dämonen drangen in das Haus seiner Familie ein und rissen ihn aus seinem Bett. Er erinnert sich noch an die Schreie seiner Eltern und daran, wie sie verzweifelt versuchten, ihn festzuhalten, bevor die Kreaturen ihn in die Dunkelheit zerrten. Was danach geschah, liegt für Toragorn im völligen Dunkel. Neun Jahre seines Lebens sind aus seiner Erinnerung verschwunden. Mit siebzehn Jahren erwachte er plötzlich am Rand eines einsamen Waldes. Er war allein, geschwächt und wusste nicht, wo er gewesen war oder wie er zurückgekehrt war. Es war, als hätte ihn eine fremde Welt wieder ausgespuckt. Doch etwas war geblieben. Auf seinem linken Oberarm befand sich ein seltsames Brandmal: vier schräge, krallenartige Narben, aus deren Tiefe sich eine grünlich-schwarze, ständig bewegende Substanz zu winden scheint. Ein schwacher Schleier dunkler, violetter Energie umgibt das Mal, das manchmal leicht pulsiert, als würde etwas darin leben. Toragorn vermutet, dass es eine dämonische Markierung ist, doch seine wahre Bedeutung kennt er nicht. Später erfuhr er eine weitere grausame Wahrheit: Nach seinem Verschwinden wurden auch seine Eltern von Dämonen verschleppt und sind seitdem nie wieder gesehen worden. Seit diesem Tag trägt Toragorn einen einzigen Gedanken in sich: Er will stark genug werden, um die Dämonen zu finden, die sein Leben zerstört haben. Nach seiner Rückkehr ließ sich Toragorn schließlich in der Grenzstadt Eisenfurt nieder. Dort trat er in die Garnison ein und begann als Soldat zu dienen. Der militärische Alltag gab ihm Struktur, Training und die Möglichkeit, stärker zu werden. Kämpfen wurde für ihn nicht nur eine Pflicht, sondern ein Weg, sich auf den Tag vorzubereiten, an dem er sich seiner Vergangenheit stellen kann. In Eisenfurt lebt Toragorn seither als Soldat der Stadtgarde – ein ruhiger, entschlossener Krieger, dessen Vergangenheit voller Schatten liegt, die er eines Tages zu erhellen hofft.
+Toragorn wurde als Sohn einfacher Leute geboren und verbrachte eine ruhige, unbeschwerte Kindheit mit seinen Eltern. Doch als er acht Jahre alt war, wurde sein Leben in einer einzigen Nacht zerstört.
+
+Dämonen drangen in das Haus seiner Familie ein und rissen ihn aus seinem Bett. Noch heute erinnert er sich an die Schreie seiner Eltern und daran, wie sie verzweifelt versuchten, ihn festzuhalten, während die Kreaturen ihn in die Dunkelheit zerrten. Dann enden seine Erinnerungen.
+
+Neun Jahre seines Lebens liegen im völligen Dunkel.
+
+Mit siebzehn Jahren erwachte Toragorn plötzlich am Rand eines einsamen Waldes. Er war allein, geschwächt und wusste nicht, wo er gewesen war oder wie er dorthin gekommen war. Es fühlte sich an, als hätte eine fremde Welt ihn einfach wieder ausgespuckt.
+
+Als er sich aufrichtete und seine Umgebung betrachtete, bemerkte er etwas Seltsames im Gras neben sich: eine abgebrochene dämonische Kralle. Sie war dunkel, gekrümmt und unnatürlich hart, als wäre sie nicht für diese Welt geschaffen. Toragorn wusste nicht, wie sie dorthin gekommen war, doch irgendetwas in seinem Inneren sagte ihm, dass sie mit dem zusammenhing, was ihm widerfahren war.
+
+Seit diesem Tag trägt er die Kralle immer bei sich. Für ihn ist sie eine stille Erinnerung an jene Nacht – und an die Kreaturen, die sein Leben zerstört haben.
+
+Doch noch etwas anderes war geblieben.
+
+Auf seinem linken Oberarm befand sich ein seltsames Brandmal: vier schräge, krallenartige Narben, aus deren Tiefe sich eine grünlich-schwarze, ständig bewegende Substanz zu winden scheint. Ein schwacher Schleier dunkler Energie umgibt das Mal, das manchmal leicht pulsiert, als würde etwas darin leben.
+
+Seit dem Tag, an dem dieses Mal auf seinem Arm erschien, ist es kein bisschen verheilt. Die Wunde sieht noch immer so aus wie am ersten Tag. Priester, Heiler und Gelehrte haben sie untersucht, doch niemand konnte ihm sagen, was es wirklich ist oder wie man es heilen könnte.
+
+Toragorn vermutet, dass es eine dämonische Markierung ist – vielleicht eine Art Kennzeichen oder Zeichen der Kreaturen, die ihn einst verschleppt haben. Doch seine wahre Bedeutung kennt er nicht.
+
+Um das Mal vor neugierigen und oft auch verächtlichen Blicken zu verbergen, trägt Toragorn fast immer einen Verband um seinen linken Oberarm. Selbst wenn er keine Rüstung trägt oder sein Arm frei liegt, wickelt er den Stoff darum. Es ist ihm lieber, die Menschen sehen nur einen Verband, als dass sie die seltsame, unheilvolle Wunde darunter bemerken.
+
+Später erfuhr er eine weitere grausame Wahrheit: Nach seinem Verschwinden wurden auch seine Eltern von Dämonen verschleppt und sind seitdem nie wieder gesehen worden.
+
+Seit diesem Tag trägt Toragorn nur noch einen einzigen Gedanken in sich:
+Er will stark genug werden, um die Dämonen zu finden, die sein Leben zerstört haben.
+
+Nach seiner Rückkehr ließ sich Toragorn schließlich in der Grenzstadt Eisenfurt nieder. Dort trat er in die Garnison ein und begann als Soldat zu dienen. Der militärische Alltag gab ihm Struktur, Training und die Möglichkeit, stärker zu werden. Kämpfen wurde für ihn nicht nur eine Pflicht, sondern ein Weg, sich auf den Tag vorzubereiten, an dem er sich seiner Vergangenheit stellen kann.
+
+So lebt Toragorn seither als Soldat der Stadtgarde von Eisenfurt – ein ruhiger, entschlossener Krieger mit wachsamen Augen und einer Vergangenheit voller Schatten.
+
+Eines Tages rief ihn der Hauptmann der Garnison zu sich. In den umliegenden Wäldern häuften sich seltsame Berichte. Jäger sprachen von unheimlichen Geräuschen in der Nacht, und manche behaupteten sogar, über den Baumwipfeln flackernde Lichter gesehen zu haben. Gleichzeitig berichteten Holzfäller und Fallensteller, dass die Tiere im Wald immer seltener wurden.
+
+Die Spuren all dieser Berichte führten immer wieder zu demselben Ort:
+einem alten Druidensteinkreis tief im Wald.
+
+Der Hauptmann gab Toragorn den Auftrag, der Sache nachzugehen und herauszufinden, was dort vor sich ging.
+
+Nach einem langen Marsch durch den dichten Wald erreichte Toragorn schließlich den Steinkreis. Moosbewachsene Steine ragten aus dem Boden, uralte Runen waren in ihre Oberfläche gemeißelt, und eine unnatürliche Stille lag über dem Ort.
+
+Doch Toragorn war nicht allein.
+
+Zwischen den alten Steinen traf er zum ersten Mal auf eine junge Waldelfe: Jennina.
+
+Keiner von beiden ahnte in diesem Moment, dass ihre Begegnung der Beginn eines gemeinsamen Abenteuers sein würde.
