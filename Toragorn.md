@@ -54,15 +54,15 @@ Soldat der Stadtgarde von Eisenfurt
 Militärischer Rang
 
 # Inventar
-## Dungeoneerpaket
+## Gewölbeforscherausrüstung
 - Rucksack
 - Brecheisen
 - Hammer
 - 10 Haken
 - 10 Fackeln
 - Zunderbüchse
-- 10 Rationen
-- Wasserflasche
+- 10 Tagesrationen
+- Wasserschlauch
 - 15m Hanfseil
 
 ## Startausrüstung Soldat
@@ -73,8 +73,8 @@ Militärischer Rang
 - Beutel mit Geld (10 Goldmünzen)
 
 # Klassenfähigkeit
-- Zweiter Atemzug
-- ***Kampfstil:*** Großer Waffenstil
+- Durchschnaufen
+- ***Kampfstil:*** Kampf mit großen Waffen
 
 # Aussehen
 ## Gesicht und Ausdruck
