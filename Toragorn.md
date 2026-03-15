@@ -3,7 +3,7 @@
 - ***Volk:*** Mensch
 - ***Klasse:*** Kämpfer
 - ***Stufe:*** 1
-- ***XP:*** 0
+- ***XP:*** 240
 - ***Geschlecht:*** Männlich
 - ***Alter:*** 23 Jahre
 
@@ -38,7 +38,7 @@
 - Großschwert
 - Hellebarde
 - Leichte Armbrust
-- 20 Bolzen
+- 19 Bolzen
 
 # Hintergrund
 Soldat
@@ -55,6 +55,7 @@ Militärischer Rang
 
 # Inventar
 ## Gewölbeforscherausrüstung
+- _**Gold**_: 22
 - Rucksack
 - Brecheisen
 - Hammer
@@ -70,7 +71,7 @@ Militärischer Rang
 - Trophäe eines besiegten Feindes (abgebrochene Dämonenkralle, die neben ihm beim Erwachen lag)
 - Spielset (Würfel)
 - Satz gewöhnliche Kleidung
-- Beutel mit Geld (10 Goldmünzen)
+- Beutel für Gold
 
 # Klassenfähigkeit
 - Durchschnaufen
