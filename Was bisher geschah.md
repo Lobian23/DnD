@@ -303,3 +303,63 @@ Und irgendwo unter Moos, Stein und Wurzel begann sich ein Schatten zu regen, der
 Doch an diesem Morgen wussten sie nur eines sicher:
 
 Von nun an würden sie den Weg nicht mehr allein gehen.
+
+
+# Abenteuer 1
+Während Jennina und Toragorn den Ort untersuchten, wurden sie plötzlich von zwei Wölfen angegriffen. Doch diese Tiere verhielten sich ungewöhnlich aggressiv und wirkten verändert. Ihre Bewegungen waren unnatürlich und ihre Augen glühten auf eine Weise, die nicht zu gewöhnlichen Tieren passte.
+
+Jennina und Toragorn zogen ihre Armbrüste und suchten zwischen den Steinen des Kreises Deckung. Der Kampf war kurz, aber gefährlich. Ein Wolf wurde von Bolzen getroffen, während der andere nahe genug kam, um Toragorn anzugreifen. Der Kämpfer hielt stand und setzte schließlich sein Großschwert ein, um die Kreaturen zu besiegen.
+
+Nach dem Kampf untersuchten die beiden die Körper der Tiere. Dabei stellten sie fest, dass die Wölfe Spuren einer fremden, dunklen Energie in sich trugen. Jennina spürte, dass hier etwas die natürliche Ordnung des Waldes gestört hatte.
+
+Während sie den Runenkreis weiter untersuchten, entdeckten sie eine Stelle, an der die Erde aufgewühlt war. Nachdem sie einen schweren Runenstein bewegten, offenbarte sich darunter ein Schacht, der tief in die Erde führte.
+
+Jennina befestigte ein Seil an einem Baum am Rand des Kreises. Eine Fackel wurde hinuntergeworfen, um die Tiefe zu erkunden. Schließlich stiegen die beiden vorsichtig hinab.
+
+Am Boden des Schachts fanden sie eine kleine unterirdische Kammer. Ein schmaler Tunnel führte weiter in den Fels hinein. In einer der Wände befand sich ein Riss, aus dem ein schwaches, unheimliches Leuchten drang.
+
+Hier reagierte Toragorns seltsames Brandmal zum ersten Mal deutlich auf die dämonische Energie in der Umgebung.
+
+Jennina und Toragorn folgten dem Tunnel weiter in die Tiefe und erreichten schließlich eine größere Kammer. In ihrer Mitte befand sich eine steinerne Platte, von der Linien zu vier Runensäulen führten. Die Runen waren teilweise beschädigt, und der Mechanismus schien lange Zeit unbenutzt gewesen zu sein.
+
+Bei der Untersuchung der Kammer entdeckten sie mehrere steinerne Scheiben mit eingravierten Runen. Nach und nach fanden sie heraus, dass diese Scheiben in Vertiefungen der Säulen eingesetzt werden konnten. Als die Scheiben an ihren richtigen Platz gelegt wurden, begannen die alten Runen erneut schwach zu leuchten.
+
+Der uralte Mechanismus des Druidenkreises erwachte wieder zum Leben.
+
+Mit einem tiefen Grollen verschob sich die zentrale Steinplatte und gab einen weiteren Abstieg frei.
+
+Jennina und Toragorn folgten dem neuen Schacht in eine noch tiefere Höhle unter dem Runenkreis. Dort fanden sie schließlich die Quelle der unheilvollen Energie.
+
+In der Mitte der Höhle stand ein großer schwarzer Stein, dessen Oberfläche von grünen, unnatürlich leuchtenden Rissen durchzogen war. Um ihn herum lagen die Knochen vieler Tiere, die offenbar in der Nähe des Steins verendet waren.
+
+Aus dem Inneren des Steins strömte dämonische Energie.
+
+Als Jennina versuchte, den Stein mit göttlicher Magie anzugreifen, reagierte die dunkle Kraft im Inneren. Eine dämonische Manifestation begann sich aus dem Stein zu formen. Die Luft in der Höhle wurde kalt, und eine verzerrte Schattenform erhob sich aus der dunklen Energie.
+
+Jennina rief die Macht ihrer Göttin Mielikki an und versuchte, die dämonische Energie mit einem Gebet zurückzudrängen. Während die Kreatur durch das göttliche Licht geschwächt wurde, nutzte Toragorn die Gelegenheit.
+
+Mit einem kraftvollen Schlag seines Großschwerts traf er den schwarzen Stein.
+
+Der Stein begann zu brechen.
+
+Ein zweiter Schlag ließ die Struktur vollständig zerbrechen. Mit einem lauten Knall zerbarst der dämonische Ankerstein, und die Manifestation löste sich in dunklem Rauch auf.
+
+Mit der Zerstörung des Steins verschwand auch die dämonische Präsenz aus der Höhle.
+
+Jennina und Toragorn untersuchten anschließend die Überreste des Steins. Einige Fragmente trugen noch dämonische Runen und seltsame Vertiefungen. Die beiden nahmen die auffälligen Stücke an sich, um sie später genauer untersuchen zu können.
+
+Nachdem sie die Höhle verlassen hatten, kehrten sie in die Kammer mit den vier Runensäulen zurück. Dort entfernten sie die zuvor eingesetzten Steinscheiben wieder aus den Säulen, wodurch das Leuchten der Runen endgültig erlosch.
+
+Als sie schließlich den Tunnel zurückgingen und den Schacht hinaufkletterten, erreichten sie wieder den Runenkreis von Aelthir an der Oberfläche.
+
+Die Atmosphäre im Wald hatte sich verändert.
+
+Die bedrückende Stille war verschwunden. Vögel begannen wieder zwischen den Bäumen zu singen, und der Wald wirkte lebendiger als zuvor.
+
+Die unmittelbare Bedrohung unter dem Runenkreis war gebannt.
+
+Doch Jennina und Toragorn wussten nun, dass unter den alten Steinen eine dunkle Macht gewirkt hatte – und dass dieser Ort eine weit größere Bedeutung besitzen könnte, als sie zunächst vermutet hatten.
+
+So endete ihr erstes gemeinsames Abenteuer unter dem Runenkreis von Aelthir.
+
+Doch ihre Reise hatte gerade erst begonnen.
