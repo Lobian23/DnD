@@ -3,7 +3,7 @@
 - ***Volk:*** Waldelf
 - ***Klasse:*** Kleriker
 - ***Stufe:*** 1
-- ***XP:*** 0    
+- ***XP:*** 240
 - ***Domäne:*** Natur
 - ***Gottheit:*** Mielikki
 - ***Hintergrund:*** Gelehrter
@@ -20,7 +20,8 @@
 - ***Charisma:*** 10 +0
 
 # Grundwerte
-- ***Trefferpunkte:*** 10
+- ***Trefferpunkte voll:*** 10
+- ***Trefferpunkte aktuell:*** 10
 - ***Rüstungsklasse:*** 15
 - ***Initiative:*** +2
 - ***Geschwindigkeit:*** 10,5 Meter
@@ -80,6 +81,7 @@ Forscher
 - Schild
 
 ## Entdeckerpaket
+- _**Gold**_: 20
 - Rucksack
 - Bettrolle
 - Essgeschirr
@@ -95,7 +97,7 @@ Forscher
 - Kleines Messer
 - Brief ihres verstorbenen Mentors Arvion Thalendir
 - Satz gewöhnlicher Kleidung
-- Gürtelbeutel mit 10 Goldmünzen
+- Gürtelbeutel für Gold
 
 # Besonderheiten
 - Ihr heiliges Symbol ist ein Amulett, auf dem ein Einhornkopf zu sehen ist
