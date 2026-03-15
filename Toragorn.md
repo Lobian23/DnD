@@ -16,7 +16,8 @@
 - ***Charisma:*** 9 -1
 
 # Grundwerte
-- ***Trefferpunkte:*** 12
+- ***Trefferpunkte voll:*** 12
+- ***Trefferpunkte aktuell:*** 11
 - ***Rüstungsklasse:*** 16
 - ***Initiative:*** +1
 - ***Geschwindigkeit:*** 9 Meter
