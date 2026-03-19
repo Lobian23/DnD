@@ -28,12 +28,12 @@
 - ***Passive Wahrnehmung:*** 15
 
 # Fertigkeiten
-- Religion
-- Überzeugen
-- Naturkunde
-- Arkane Kunde
-- Geschichte
-- Wahrnehmung
+- Religion (Kleriker)
+- Überzeugen (Kleriker)
+- Naturkunde (Domäne)
+- Arkane Kunde (Hintergrund)
+- Geschichte (Hintergrund)
+- Wahrnehmung (Volk)
 
 # Volksfähigkeiten
 - Dunkelsicht
