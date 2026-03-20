@@ -2,8 +2,8 @@
 - ***Name:*** Toragorn
 - ***Volk:*** Mensch
 - ***Klasse:*** Kämpfer
-- ***Stufe:*** 1
-- ***XP:*** 240
+- ***Stufe:*** 2
+- ***XP:*** 680
 - ***Geschlecht:*** Männlich
 - ***Alter:*** 23 Jahre
 
@@ -16,8 +16,8 @@
 - ***Charisma:*** 9 -1
 
 # Grundwerte
-- ***Trefferpunkte voll:*** 12
-- ***Trefferpunkte aktuell:*** 11
+- ***Trefferpunkte voll:*** 21
+- ***Trefferpunkte aktuell:*** 21
 - ***Rüstungsklasse:*** 16
 - ***Initiative:*** +1
 - ***Geschwindigkeit:*** 9 Meter
@@ -76,6 +76,7 @@ Militärischer Rang
 
 # Klassenfähigkeit
 - Durchschnaufen
+- Tatendrang
 - ***Kampfstil:*** Kampf mit großen Waffen
 
 # Aussehen
@@ -155,3 +156,10 @@ Doch Toragorn war nicht allein.
 Zwischen den alten Steinen traf er zum ersten Mal auf eine junge Waldelfe: Jennina.
 
 Keiner von beiden ahnte in diesem Moment, dass ihre Begegnung der Beginn eines gemeinsamen Abenteuers sein würde.
+
+# Stufenaufstiege:
+## Stufe 2
+- Datum: 19.03.2026
+- TP: +9
+- Fähigkeit: Tatendrang
+
