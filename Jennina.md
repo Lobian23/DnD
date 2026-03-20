@@ -2,8 +2,8 @@
 - ***Name:*** Jennina
 - ***Volk:*** Waldelf
 - ***Klasse:*** Kleriker
-- ***Stufe:*** 1
-- ***XP:*** 240
+- ***Stufe:*** 2
+- ***XP:*** 680
 - ***Domäne:*** Natur
 - ***Gottheit:*** Mielikki
 - ***Hintergrund:*** Gelehrter
@@ -20,8 +20,8 @@
 - ***Charisma:*** 10 +0
 
 # Grundwerte
-- ***Trefferpunkte voll:*** 10
-- ***Trefferpunkte aktuell:*** 10
+- ***Trefferpunkte voll:*** 17
+- ***Trefferpunkte aktuell:*** 17
 - ***Rüstungsklasse:*** 15
 - ***Initiative:*** +2
 - ***Geschwindigkeit:*** 10,5 Meter
@@ -63,6 +63,10 @@
 - Heilendes Wort
 - Lenkendes Geschoss
 - Schild des Glaubens
+
+# Göttliche Macht
+- Tiere und Pflanzen bezaubern
+- Untote vertreiben
 
 # Inventar
 ## Waffen
@@ -171,4 +175,13 @@ Zwischen den Steinen begegnete sie zum ersten Mal einem fremden Krieger: Toragor
 
 Keiner von beiden wusste zu diesem Zeitpunkt, dass dieses Treffen der Beginn ihres ersten gemeinsamen Abenteuers sein würde.
 
+
+#Stufenaufstiege:
+## Stufe 2
+- Datum: 19.03.2026
+- TP: +7
+- Zauberbplätze: +1 1.Grad
+- ##Göttliche Macht:
+- ###Tiere und Pflanzen bezaubern
+- ###Untote vertreiben
 
