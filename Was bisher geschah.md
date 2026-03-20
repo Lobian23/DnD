@@ -303,7 +303,11 @@ Doch an diesem Morgen wussten sie nur eines sicher:
 Von nun an würden sie den Weg nicht mehr allein gehen.
 
 
-# SZENARIO 1 - Der Runenkreis von Aelthir
+-----------------------------------------------
+
+
+
+# Kapitel 1 - Der Runenkreis von Aelthir
 Während Jennina und Toragorn den Ort untersuchten, wurden sie plötzlich von zwei Wölfen angegriffen. Doch diese Tiere verhielten sich ungewöhnlich aggressiv und wirkten verändert. Ihre Bewegungen waren unnatürlich und ihre Augen glühten auf eine Weise, die nicht zu gewöhnlichen Tieren passte.
 
 Jennina und Toragorn zogen ihre Armbrüste und suchten zwischen den Steinen des Kreises Deckung. Der Kampf war kurz, aber gefährlich. Ein Wolf wurde von Bolzen getroffen, während der andere nahe genug kam, um Toragorn anzugreifen. Der Kämpfer hielt stand und setzte schließlich sein Großschwert ein, um die Kreaturen zu besiegen.
@@ -362,7 +366,12 @@ So endete ihr erstes gemeinsames Abenteuer unter dem Runenkreis von Aelthir.
 
 Doch ihre Reise hatte gerade erst begonnen.
 
-# SZENARIO 2 - Der falsche Befehl
+
+---------------------------------------------------
+
+
+
+# Kapitel 2 - Der falsche Befehl
 Als der Morgen über dem Runenkreis von Aelthir dämmerte, wirkte der Wald beinahe fremd, nicht weil er sich in etwas Neues verwandelt hätte, sondern weil er endlich wieder er selbst war. Das graue, spannungslose Licht, das kurz vor Sonnenaufgang zwischen den Stämmen lag, fiel auf dieselben moosbewachsenen Steine, dieselben Wurzeln, dieselben Flechten und Farne wie am Tag zuvor, und doch war alles anders. Die unnatürliche Stille, die sich in den Stunden vor dem Abstieg wie ein unsichtbares Tuch über den Ort gelegt hatte, war verschwunden. Stattdessen bewegte sich die Luft wieder frei zwischen den alten Steinen. Vögel ließen vereinzelte, erst vorsichtige, dann kräftigere Rufe hören, irgendwo knackte Holz im Unterholz, und ganz in der Ferne rauschte Wasser so selbstverständlich, als hätte es nie einen Augenblick gegeben, in dem selbst das Flüstern des Waldes zu stocken schien.
 
 Jennina war die Erste, die stehen blieb, nicht aus Müdigkeit, sondern weil sie das Bedürfnis hatte, diesen Wandel mit allen Sinnen zu begreifen, als müsste sie sich vergewissern, dass er wirklich geschehen war. Sie hob den Kopf, lauschte, atmete langsam ein und schloss für einen Moment die Augen. Es war kein göttlicher Funke, der zu ihr sprach, kein plötzliches Wunder, das sich in Worten offenbarte, sondern etwas viel Zarteres und deshalb auch Überzeugenderes: das Ausbleiben jenes falschen Tons, den sie seit ihrem Eintreffen am Kreis gespürt hatte. Die Harmonie war nicht vollkommen, nicht makellos, nicht so rein wie in den friedlichsten Teilen von Silvanhain, doch sie war wieder vorhanden. Ein verletzter Ort hatte aufgehört, offen zu bluten.
@@ -473,7 +482,12 @@ So endete jener Tag nicht mit Triumph, obwohl der Anker vernichtet war, und nich
 
 Und während irgendwo über Eisenfurt die Abendluft kühler wurde, wussten Jennina und Toragorn, auch wenn sie es so noch nicht aussprachen, dass sie sich auf einem Weg befanden, der sie nicht so bald wieder loslassen würde.
 
-# SZENARIO 3 - Die Graue Wacht
+
+
+-------------------------------------------
+
+
+# Kapitel 3 - Die Graue Wacht
 Der Abend senkte sich über Eisenfurt, als hätte die Stadt selbst beschlossen, das, was am Tag sichtbar geworden war, nicht weiter im Licht zu tragen. Die Geräusche wurden leiser, die Wege leerer, und zwischen den Häusern lag jene trügerische Ruhe, die nicht aus Frieden entstand, sondern aus Gewohnheit. Menschen zogen sich zurück, Türen schlossen sich, Gespräche verstummten – und doch blieb etwas zurück, ein kaum greifbares Zittern in der Luft, das weder Jennina noch Toragorn zu benennen vermochten.
 
 Sie gingen schweigend nebeneinander her.
