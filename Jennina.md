@@ -181,7 +181,7 @@ Keiner von beiden wusste zu diesem Zeitpunkt, dass dieses Treffen der Beginn ihr
 - Datum: 19.03.2026
 - TP: +7
 - Zauberbplätze: +1 1.Grad
-- ##Göttliche Macht:
-- ###Tiere und Pflanzen bezaubern
-- ###Untote vertreiben
+- ### Göttliche Macht:
+- Tiere und Pflanzen bezaubern
+- Untote vertreiben
 
