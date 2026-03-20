@@ -1,6 +1,4 @@
-# Anfang
-
-## Der Schatten im Wald (Vorgeschichte zu Abenteuer 1)
+# Prolog - Der Schatten im Wald
 
 Der Wald von Silvanhain war alt. Nicht nur alt wie ein Dorf, nicht nur alt wie die Erinnerung der lebenden Waldelfen, sondern alt auf jene tiefe, schwer zu begreifende Weise, die manche Orte in sich tragen, wenn Generationen kommen und gehen, während sie selbst bleiben. Seine Bäume ragten wie gewaltige Säulen in den Himmel, ihre Stämme mit Moos und silbrigem Flechtenwerk bedeckt, ihre Kronen so dicht verwoben, dass das Sonnenlicht nur in schmalen, grünen Bahnen bis auf den Boden fiel. Wenn Wind durch die Blätter strich, klang es manchmal wie fernes Flüstern. Viele hielten das für Einbildung. Jennina nie.
 
@@ -305,7 +303,7 @@ Doch an diesem Morgen wussten sie nur eines sicher:
 Von nun an würden sie den Weg nicht mehr allein gehen.
 
 
-# Abenteuer 1
+# SZENARIO 1 - Der Runenkreis von Aelthir
 Während Jennina und Toragorn den Ort untersuchten, wurden sie plötzlich von zwei Wölfen angegriffen. Doch diese Tiere verhielten sich ungewöhnlich aggressiv und wirkten verändert. Ihre Bewegungen waren unnatürlich und ihre Augen glühten auf eine Weise, die nicht zu gewöhnlichen Tieren passte.
 
 Jennina und Toragorn zogen ihre Armbrüste und suchten zwischen den Steinen des Kreises Deckung. Der Kampf war kurz, aber gefährlich. Ein Wolf wurde von Bolzen getroffen, während der andere nahe genug kam, um Toragorn anzugreifen. Der Kämpfer hielt stand und setzte schließlich sein Großschwert ein, um die Kreaturen zu besiegen.
@@ -363,3 +361,406 @@ Doch Jennina und Toragorn wussten nun, dass unter den alten Steinen eine dunkle 
 So endete ihr erstes gemeinsames Abenteuer unter dem Runenkreis von Aelthir.
 
 Doch ihre Reise hatte gerade erst begonnen.
+
+# SZENARIO 2 - Der falsche Befehl
+Als der Morgen über dem Runenkreis von Aelthir dämmerte, wirkte der Wald beinahe fremd, nicht weil er sich in etwas Neues verwandelt hätte, sondern weil er endlich wieder er selbst war. Das graue, spannungslose Licht, das kurz vor Sonnenaufgang zwischen den Stämmen lag, fiel auf dieselben moosbewachsenen Steine, dieselben Wurzeln, dieselben Flechten und Farne wie am Tag zuvor, und doch war alles anders. Die unnatürliche Stille, die sich in den Stunden vor dem Abstieg wie ein unsichtbares Tuch über den Ort gelegt hatte, war verschwunden. Stattdessen bewegte sich die Luft wieder frei zwischen den alten Steinen. Vögel ließen vereinzelte, erst vorsichtige, dann kräftigere Rufe hören, irgendwo knackte Holz im Unterholz, und ganz in der Ferne rauschte Wasser so selbstverständlich, als hätte es nie einen Augenblick gegeben, in dem selbst das Flüstern des Waldes zu stocken schien.
+
+Jennina war die Erste, die stehen blieb, nicht aus Müdigkeit, sondern weil sie das Bedürfnis hatte, diesen Wandel mit allen Sinnen zu begreifen, als müsste sie sich vergewissern, dass er wirklich geschehen war. Sie hob den Kopf, lauschte, atmete langsam ein und schloss für einen Moment die Augen. Es war kein göttlicher Funke, der zu ihr sprach, kein plötzliches Wunder, das sich in Worten offenbarte, sondern etwas viel Zarteres und deshalb auch Überzeugenderes: das Ausbleiben jenes falschen Tons, den sie seit ihrem Eintreffen am Kreis gespürt hatte. Die Harmonie war nicht vollkommen, nicht makellos, nicht so rein wie in den friedlichsten Teilen von Silvanhain, doch sie war wieder vorhanden. Ein verletzter Ort hatte aufgehört, offen zu bluten.
+
+Toragorn stand einige Schritte entfernt und beobachtete sie, ohne sie zu stören. Wie so oft wirkte er in der äußeren Haltung vollkommen ruhig, beinahe regungslos, doch wer genauer hinsah, konnte erkennen, dass diese Ruhe nie mit Sorglosigkeit verwechselt werden durfte. Sie war nicht die Gelassenheit eines Mannes, dem Gefahr fremd war, sondern die eines Menschen, der sich an Gefahr gewöhnt hatte, bis sie in seinem Körper saß wie eine zweite Natur. Seine linke Hand ruhte in der Nähe des Verbands an seinem Oberarm, nicht weil er bewusst danach gegriffen hätte, sondern weil sein Körper längst gelernt hatte, jede Veränderung zuerst dort zu prüfen. Das Mal darunter war nicht mehr so aufgewühlt wie in der Höhle, nicht mehr heiß, nicht mehr bohrend und lebendig, und doch war es nicht still. Es war nie wirklich still. Selbst in Ruhe wirkte es wie etwas, das wartete.
+
+Jennina öffnete die Augen und sah zu ihm hinüber. Für einen Moment brauchte sie keine Worte. Sie konnte an seinem Gesicht nicht viel lesen; Toragorn war kein Mann, dessen Gedanken leicht an die Oberfläche traten. Aber sie sah, dass auch er den Unterschied bemerkte. Nicht in derselben Weise wie sie, nicht als Tochter des Waldes, nicht als Klerikerin Mielikkis, sondern als jemand, der erlebt hatte, wie ein Ort sich gegen ihn sträubte und nun aufgehört hatte, es zu tun.
+
+„Es ist weg“, sagte sie schließlich leise, und ihre Stimme war so vorsichtig, als wollte sie die neugewonnene Ruhe nicht erschrecken. „Nicht alles. Aber das Schlimmste.“
+
+Toragorn nickte. „Ja.“
+
+Mehr sagte er zunächst nicht. Das brauchte er auch nicht. Zwischen ihnen war seit ihrer ersten Begegnung am Steinkreis ein seltsames, stilles Verstehen entstanden, das nicht aus langer Vertrautheit stammte, sondern aus gemeinsam überstandener Gefahr. Beide wussten, dass der Sieg über den Anker nicht bedeutete, dass sie wirklich verstanden, womit sie es zu tun gehabt hatten. Sie hatten etwas Zerstörerisches vernichtet. Aber sie hatten damit nicht zugleich seine Herkunft erklärt, seinen Zweck oder die Möglichkeit, dass es noch anderes von derselben Art geben mochte.
+
+Jennina wandte sich noch einmal um und ließ den Blick über die alten Steine gleiten. Der Kreis war immer noch ein Ort voller Gewicht, voller Geschichte, voller vergessener Bedeutung. Doch nun schien in ihm nicht länger etwas Fremdes zu sitzen, das ihn von innen heraus verdarb. In ihrem Herzen mischten sich Erleichterung und Trauer miteinander. Arvion hatte recht gehabt. Und gerade weil er recht gehabt hatte, konnte er es nicht mehr selbst erleben.
+
+Sie schob die Finger an das kleine Amulett mit dem Einhornkopf an ihrer Brust und sprach kein langes Gebet, nur einen stillen Gedanken an ihre Göttin und an ihren verstorbenen Mentor. Dann drehte sie sich um und trat zu Toragorn.
+
+Der Rückweg begann ohne großes Wort und ohne feierliche Geste. Sie packten ihre Ausrüstung zusammen, prüften Seil, Waffen und mitgenommene Stücke, und als sie sich schließlich vom Runenkreis entfernten, war es, als ließen sie einen Ort zurück, der ihnen in nur einer Nacht mehr genommen und mehr gegeben hatte, als ein gewöhnlicher Reiseweg in Jahren vermocht hätte.
+
+Der Wald, durch den sie nun gingen, wirkte auf merkwürdige Weise vertraut und neu zugleich. Dort, wo zuvor ein unsichtbarer Druck jede Bewegung begleitet hatte, lag jetzt wieder die gewöhnliche Vorsicht eines echten Waldes, jene natürliche Wachsamkeit, in der Geräusche Bedeutung haben, aber nicht notwendigerweise Bedrohung sind. Jennina bemerkte einen Fuchs, der in einiger Entfernung innehielt, sie ansah und dann ruhig zwischen Farnen verschwand. Ein Specht hämmerte gegen einen Stamm. Sogar der Wind klang anders, nicht mehr wie ein verstümmeltes Flüstern, sondern wie das, was er immer gewesen war: Bewegung, die Blätter zum Klingen brachte.
+
+Doch obwohl der Ort heilte, heilte in ihnen nichts so schnell.
+
+Nach einer Weile war es Jennina, die das Schweigen brach. Nicht, weil sie plötzlich redselig geworden wäre, sondern weil die Gedanken in ihr drängten und sie wusste, dass Toragorn vermutlich ähnliche Fragen mit sich trug. „Das war kein Zufall“, sagte sie leise. „Nicht der Anker. Nicht der Kreis. Nicht… wir.“
+
+Toragorn sah nicht sofort zu ihr. Sein Blick blieb auf dem Weg vor ihnen, auf dem Licht, das in schmalen Bändern durch die Äste fiel. „Nein“, sagte er schließlich. „Das glaube ich auch nicht.“
+
+Jennina schwieg kurz. Dann, vorsichtig: „Dein Arm.“
+
+Toragorn atmete kaum merklich tiefer ein. Es war kein erschrockener Atemzug, eher das kaum wahrnehmbare Zeichen dafür, dass sie einen Punkt berührte, den er nicht jedem zeigte, nicht einmal im Gespräch. Langsam löste er die Hand vom Schwertgurt und legte sie an den Verband. „Es hat reagiert“, sagte er. „Als wir näher kamen. Stärker als je zuvor.“
+
+„Und jetzt?“
+
+„Jetzt ist es ruhiger.“ Er zögerte. „Aber nicht ruhig.“
+
+Jennina nickte, als verstünde sie den Unterschied, und tatsächlich tat sie das auf ihre Weise. Manche Wunden heilten nicht dadurch, dass der Schmerz verschwand; manchmal lernte der Körper nur, ihn anders zu tragen. Doch bei Toragorn war es mehr als eine Wunde. Es war etwas, das antwortete. Etwas, das eine Verbindung zu jener verderbten Energie besaß, die in der Höhle gelebt hatte. Diese Erkenntnis erschreckte sie, aber sie ließ sie nicht zurückweichen. Vielleicht, weil sie in Toragorns Stimme keinen Stolz auf diese Verbindung hörte, sondern nur die nüchterne Last eines Mannes, der sie seit Jahren gegen seinen Willen mit sich führte.
+
+Sie gingen weiter, und je höher die Sonne stieg, desto mehr löste sich die letzte Schwere aus der Landschaft. Trotzdem blieb über ihrem Weg ein Gefühl zurück, das weder in die klare Erleichterung des Sieges noch in das dumpfe Nachzittern von Gefahr passen wollte. Es war das Bewusstsein, dass eine Antwort immer neue Fragen gebiert. Sie hatten etwas zerstört. Aber woher war es gekommen? Wer hatte es dorthin gebracht? Und warum hatte Toragorns Mal darauf reagiert, als wäre es nicht bloß zufällig in seine Nähe geraten, sondern als hätte zwischen beiden eine alte, verborgene Kenntnis bestanden?
+
+Sie sprachen nicht ununterbrochen, und gerade darin lag die Seltsamkeit ihrer Gesellschaft. Zwischen anderen Menschen wäre Stille leicht Unbeholfenheit oder Misstrauen gewesen. Zwischen ihnen war sie etwas Drittes geworden: Raum, in dem jeder denken konnte, ohne den anderen zu verlieren.
+
+Als das Knacken von Ästen sie schließlich aufhorchen ließ, war es nicht das panische Reagieren von Verfolgten, sondern die sofortige, fast wortlose Abstimmung zweier Menschen, die einander im richtigen Augenblick vertrauten. Toragorn hob kaum sichtbar die Hand; Jennina blieb stehen. Beide wandten den Blick in dieselbe Richtung.
+
+Zwischen den jungen Bäumen und den dichten Sträuchern bewegte sich jemand. Nicht hastig. Nicht ungeschickt. Jemand, der wusste, wie man im Wald ging, ohne ihn gegen sich aufzubringen. Wenige Augenblicke später trat ein Mann aus dem Grün. Er war nicht mehr jung, trug die praktische Kleidung eines Jägers und einen Bogen, dessen Gebrauchsspuren verrieten, dass er nicht nur Schmuck oder Vorsicht war. In seinem Gesicht lag derselbe Ausdruck, den viele Menschen bekamen, die ihren Lebensunterhalt in Grenzgebieten und Wäldern verdienten: Aufmerksamkeit ohne Nervosität, Erfahrung ohne Überheblichkeit.
+
+Er sah zuerst Toragorn, dann Jennina, dann beide zusammen, und in seinem Blick lag keine offene Feindseligkeit. Eher das kalkulierende Erkennen eines Mannes, der in den vergangenen Wochen gelernt hatte, ungewöhnliche Dinge ernst zu nehmen.
+
+Jennina ließ Toragorn den ersten Schritt machen, nicht weil sie unfähig gewesen wäre zu sprechen, sondern weil ihre Vorsicht bei Fremden so tief in ihr saß wie ihre Liebe zu Tieren und Büchern. Toragorn fragte nicht nach Name oder Herkunft, sondern nach dem, was der Mann hier tat. Der Fremde antwortete knapp, nannte sich Edrik und sprach mit jener lakonischen Selbstverständlichkeit, die Menschen eigen ist, die nicht viel von Worten halten, solange ein Blick auf Spuren und Wetterlagen ihnen oft mehr verrät.
+
+Edrik war es, der das Gespräch rasch in die Richtung lenkte, die ohnehin über ihnen hing. Er berichtete nicht ausschweifend, sondern in klaren Bildern, und gerade deshalb wog das, was er sagte, schwer. Seit Wochen, erklärte er, stimmte etwas im Wald nicht. Tiere änderten ihre Wege. Manche verschwanden. Andere wurden unruhig, aggressiv, sprunghaft. Fallen blieben leer. Manche Gebiete wurden von Wild gemieden, als läge darin etwas, das Tiere lange vor Menschen wahrnahmen. Er hatte Meldung gemacht, mehr als einmal. Nicht an Gelehrte, nicht an Priester, sondern an jene, die in einer Grenzstadt für Sicherheit zuständig sein sollten.
+
+Die Garnison.
+
+Und dort, so ließ er erkennen, war wenig geschehen.
+
+Jennina hörte ihm mit zunehmender Anspannung zu. Für sie war jeder seiner Sätze wie die Bestätigung eines Verdachts, den sie seit den ersten Berichten der Tiere in sich getragen hatte. Was ihnen am Runenkreis begegnet war, war nicht plötzlich entstanden. Es war gewachsen, während andere weggesehen oder die Zeichen nicht verstanden hatten.
+
+Toragorn dagegen reagierte stiller, aber nicht weniger deutlich. Edriks Worte trafen auf etwas in ihm, das aus Erfahrung misstrauisch gegen jede Form von Versäumnis war. Eine Garnison, die Warnungen ignorierte, war nicht bloß ärgerlich. Sie war gefährlich. Als Edrik schließlich sagte, dass die Dinge im Wald lange vor ihrer Begegnung den gewöhnlichen Lauf verlassen hatten, wurde klar, dass der Auftrag, der Toragorn zum Runenkreis geführt hatte, nicht der Anfang der Geschichte gewesen sein konnte.
+
+Für einen kurzen Augenblick blieb Edriks Blick an Toragorns Arm hängen, dort, wo unter dem Stoff etwas verborgen lag, das er nicht sehen konnte und vielleicht doch auf eine Weise wahrnahm. Er fragte nicht offen danach. Und gerade dieses Schweigen machte deutlich, dass er den Wald lange genug kannte, um manche Dinge nicht mit Gewalt aus anderen Menschen herausbrechen zu wollen.
+
+Als er sich wieder von ihnen verabschiedete, ließ er mehr zurück als Informationen. Sein Erscheinen bewies, dass es außerhalb ihrer eigenen Wahrnehmung andere gab, die Unruhe gespürt, beobachtet und ernst genommen hatten. Unabhängige Augen. Unabhängige Warnungen. Das verlieh dem, was geschehen war, ein anderes Gewicht. Nicht nur, weil ihre Entdeckung damit bestätigt wurde, sondern weil zugleich sichtbar wurde, wie lange man ihr aus dem Weg gegangen war.
+
+Nach Edriks Verschwinden setzten sie ihren Weg fort. Keiner sprach sofort. Die Begegnung war kurz gewesen, aber sie hatte etwas in Bewegung gesetzt. Jennina dachte an Arvion und daran, wie viele Hinweise bereits vor seinem Tod zusammengetragen worden waren. Toragorn dachte an die Garnison, an Berichte, die irgendwo in bürokratischen Abläufen versickert oder bewusst aufgehalten worden sein mussten. Und über allem lag die drängende Frage, wer von all dem schon wann gewusst hatte.
+
+Als Eisenfurt schließlich in Sicht kam, wirkte die Stadt wie etwas, das mit ihren inneren Zuständen wenig zu tun haben wollte. Ihre Mauern standen fest, Handwerker gingen ihren Geschäften nach, Rauch stieg aus Schornsteinen, Wachen bewegten sich auf den Wegen, und aus der Entfernung hätte man meinen können, hier herrsche die geordnete Sicherheit einer Grenzstadt, die gelernt hatte, mit Unsicherheiten zu leben. Doch oft ist das Beunruhigendste an einer solchen Rückkehr gerade die Normalität. Sie legt sich über Widersprüche wie eine Decke über eine unruhige Gestalt.
+
+Toragorn und Jennina gingen direkt zur Garnison. Für Toragorn war der Weg dorthin vertraut; er kannte die Abläufe, die Gesichter, den Klang von Stiefeln auf Stein, das Knarren von Türen, das metallische Nebengeräusch von Waffenpflege und Training. Gerade deshalb fiel ihm das erste Zögern so deutlich auf. Es war kein offener Alarm und kein verdächtiger Zwischenruf. Nur diese kleine Verschiebung, die Menschen in ihren Bewegungen bekommen, wenn etwas nicht mit ihrer Erwartung übereinstimmt. Ein Wachsoldat sah Toragorn an, dann noch einmal hin, als müsse er zuerst verstehen, warum ihn dieser Anblick irritierte. Jennina, die am Rand sozialer Situationen oft mehr beobachtete, als andere wahrnahmen, bemerkte es ebenfalls sofort.
+
+Toragorn verlangte nicht laut, nicht barsch, sondern mit der nüchternen Selbstverständlichkeit eines Soldaten, der von einem Auftrag zurückkehrt und Bericht zu erstatten hat, zum Hauptmann gelassen zu werden. Dass darauf kein unmittelbares „Natürlich“ folgte, war das erste sichtbare Zeichen dafür, dass sie nicht in eine geordnete Rückkehr geraten waren.
+
+Die Pause, die folgte, war zu lang. Nicht dramatisch lang. Nicht so lang, dass jemand offen hätte protestieren können. Aber lang genug, dass sie Gewicht bekam. Jennina spürte, wie sich in ihr die alte Nervosität meldete, die immer dann auftrat, wenn Blicke länger auf ihr lagen, als ihr lieb war, und wenn sie das Gefühl hatte, in einem Raum zu stehen, dessen unausgesprochene Regeln sich gerade verschoben. Doch gleichzeitig war da etwas anderes: ihre wachsame Neugier, ihr Instinkt dafür, wenn Muster sich offenbarten.
+
+Als Sergeant Brenn schließlich erschien, trat er nicht mit der Schärfe eines Mannes auf, der Gefahr wittert, sondern mit jener kontrollierten Sachlichkeit, die im Nachhinein oft verdächtiger ist als jede offene Abwehr. Er hörte zu, stellte Fragen, und doch wirkte es, als sei das Ergebnis dieses Gesprächs für ihn schon vor dem ersten Satz festgelegt. Toragorn berichtete, dass er vom Runenkreis zurückgekehrt sei. Brenn fragte, aufgrund welchen Auftrags. Toragorn antwortete, dass er den Befehl des Hauptmanns ausgeführt habe.
+
+Was dann folgte, wirkte im ersten Moment so schlicht, dass sein eigentliches Gewicht kaum zu fassen war: Brenn wusste von keinem solchen Auftrag.
+
+Nicht in Form einer direkten Anschuldigung. Nicht einmal mit besonderer Schärfe. Eher mit jener gefährlichen Nüchternheit, die auf Formalität pocht, während sie den Boden unter einem Gespräch verschiebt. Toragorn, der an klare Hierarchien gewöhnt war, musste sich für einen Moment zwingen, nicht sofort in offenen Zorn zu verfallen. Er wusste, was er gehört hatte. Er wusste, von wem er den Befehl empfangen hatte. Trotzdem stand nun ein Mann vor ihm, der mit trockener Selbstverständlichkeit behauptete, es gebe keine Spur davon.
+
+Jennina erkannte rasch, dass hier nicht bloß ein Missverständnis vorlag. Sie stellte ruhig Fragen, die dort hin zielten, wo Brenns Antworten dünn wurden: nach den Berichten der Jäger, nach den Meldungen über das seltsame Verhalten der Tiere, nach der Patrouille, die heute plötzlich denselben Wald durchquert hatte, den man angeblich bislang für irrelevant gehalten hatte. Jede Antwort, die Brenn gab, war in sich nicht völlig unmöglich. Berichte seien unzuverlässig gewesen. Man habe keine Panik auslösen wollen. Man könne nicht jeder Erzählung eines Jägers nachgehen. Derartige Dinge klangen nach Verwaltung, nach Vorsicht, nach Routine. Und doch passten sie nicht zu dem, was Edrik im Wald gesagt hatte, nicht zu dem, was Jennina und Toragorn mit eigenen Augen gesehen hatten, und vor allem nicht zu dem Umstand, dass nun, da der Anker zerstört war, plötzlich eine Patrouille dorthin unterwegs gewesen war.
+
+Die Widersprüche lagen nicht in einem einzigen entlarvenden Satz, sondern im Geflecht der Antworten selbst.
+
+Toragorn fragte, mit zunehmender Kälte in der Stimme, warum eine Patrouille in ein Gebiet geschickt wurde, das man bislang offenbar nicht ernst genommen hatte. Brenn wich aus, ohne sichtbar auszuweichen. Jennina fragte, weshalb man mehrere Berichte gleichzeitig als „nicht relevant“ einstufte. Brenn gab keine wirkliche Erklärung. Je länger das Gespräch dauerte, desto klarer wurde, dass hier jemand nicht einfach überfordert oder fahrlässig war. Hier hielt jemand etwas zurück.
+
+Für Toragorn war dieser Moment auf eine andere Weise einschneidend als für Jennina. Sie hatte den Hauptmann bisher nur als Erzählung, als Autorität hinter Toragorns Auftrag gekannt. Für ihn hingegen war Halvar kein abstrakter Name, sondern eine reale, vertraute Figur seines militärischen Alltags. Dass ausgerechnet der Befehl, den er als klar und eindeutig in Erinnerung trug, nun in einem Nebel aus Abstreiten und Formalitäten verschwand, war nicht nur verdächtig. Es war ein Angriff auf das Einzige, worauf er nach Jahren des inneren Zerrisses gelernt hatte, im äußeren Leben zu vertrauen: Struktur.
+
+Je schärfer die Fragen wurden, desto deutlicher trat auch Jenninas Rolle in dieser Konfrontation hervor. Sie war nicht laut. Nicht dominierend. Ihre Zurückhaltung blieb, und doch gewann sie gerade durch die Präzision ihres Denkens an Gewicht. Sie fragte nicht, um sich zu behaupten, sondern weil sie Unstimmigkeiten nicht ertragen konnte, wenn sie klar vor ihr lagen. In gewisser Weise war das ihre Art von Mut: nicht die offene Kampfbereitschaft Toragorns, sondern das Beharren auf Logik und Wahrheit, selbst wenn andere versuchten, sie in den Geräuschen eines gewöhnlichen Verwaltungsgesprächs untergehen zu lassen.
+
+Schließlich führte die Verknüpfung von Jägerberichten, Patrouillenroute und angeblich unbekanntem Auftrag zu einer Erkenntnis, die beide fast im selben Augenblick traf: Was immer am Runenkreis geschehen war, hatte in Eisenfurt bereits zuvor Spuren hinterlassen. Nicht im offenen Straßengewirr. Nicht als sichtbarer Schrecken. Sondern in Akten, Entscheidungen, verspäteten Maßnahmen und ausbleibenden Reaktionen. Das Problem war nicht nur aus dem Wald in die Stadt getragen worden. Es saß womöglich längst hier.
+
+Später, als sie die Garnison nicht mit Klarheit, sondern mit mehr Fragen verließen, blieb zwischen ihnen ein Schweigen zurück, das dichter und schwerer war als jedes zuvor. Jennina war erschöpft von der Anspannung des Gesprächs, von dem Versuch, zugleich ruhig, höflich und unnachgiebig zu bleiben. Toragorn wirkte nach außen beherrscht, doch in ihm arbeitete etwas. Nicht nur Misstrauen gegen Brenn. Sondern die Erkenntnis, dass die Sache mit dem Runenkreis ihn möglicherweise nicht zufällig getroffen hatte.
+
+Es war auf diesem Weg, im Schatten Eisenfurts, zwischen Stadtmauer, Kasernenhof und den unscheinbaren Straßen, dass das Gespräch persönlicher wurde. Nicht, weil Toragorn plötzlich offenherzig geworden wäre, sondern weil die Ereignisse sie an einen Punkt gebracht hatten, an dem Schweigen selbst etwas verschweigen würde, das für den anderen wichtig war. Jennina hatte bereits gesehen, dass sein Mal reagierte. Sie hatte die Spannung in ihm gespürt. Nun, da sie zwischen offenen Widersprüchen und verborgenen Kräften standen, ließ sich das Thema nicht länger nur durch Wegsehen schützen.
+
+Toragorn sprach nicht ausschweifend. Er war kein Mann, der Leid in schöne Worte kleidete. Und gerade deshalb traf es umso stärker, als er, stockend und nüchtern zugleich, von jener Nacht erzählte, in der Dämonen ihn aus seinem Elternhaus gerissen hatten, von den neun Jahren, die seinem Gedächtnis fehlten, und von dem Erwachen am Waldrand, an seiner Seite die abgebrochene dämonische Kralle und auf seinem Arm jenes Mal, das nie verheilte und nie zur Ruhe kam. Er bat nicht um Mitleid. Er stellte keine Forderung. Er legte nur einen Teil dessen offen, was er sonst in sich eingeschlossen hielt wie ein Tier, das in einem Käfig aus Gewohnheit und Zorn lebte.
+
+Jennina hörte zu, und ihr Mitgefühl war nicht sentimental. Es kam nicht aus oberflächlicher Rührung, sondern aus dem tiefen, beinahe schmerzhaften Erkennen dessen, was es bedeutete, mit etwas zu leben, das man nicht gewählt hatte und das doch jeden Tag mit einem sprach. Sie wich nicht zurück. Sie ließ sein Geständnis nicht ins Leere fallen. Vielleicht war gerade das der Augenblick, in dem ihr gegenseitiges Vertrauen begann, etwas Belastbares zu werden.
+
+Am Ende dieses Tages hatten sie keine klare Antwort auf die drängendste Frage erhalten. Sie wussten nicht, wer Toragorn wirklich zum Runenkreis geschickt hatte. Sie wussten nicht, warum Edriks Berichte versickert waren. Sie wussten nicht, ob Brenn nur vertuschte, ob er selbst verstrickt war oder ob in Eisenfurt etwas wirkte, das größer war als ein einzelner Mann. Aber sie wussten nun, dass ihre Rückkehr kein Abschluss gewesen war. Sie war der Eintritt in ein anderes, gefährlicheres Gelände.
+
+Denn unter der Oberfläche von Ordnung, Berichten und Befehlen hatten sich Risse gezeigt.
+
+Und Risse, das wussten sie inzwischen beide, waren oft der erste Hinweis darauf, dass etwas aus einer anderen Dunkelheit bereits begonnen hatte, sich seinen Weg zu suchen.
+
+So endete jener Tag nicht mit Triumph, obwohl der Anker vernichtet war, und nicht mit Ruhe, obwohl der Wald wieder atmete. Er endete mit Erkenntnis. Mit dem leisen, aber unumkehrbaren Gefühl, dass sie aus der Tiefe unter dem Runenkreis nicht einfach in ihr altes Leben zurückgekehrt waren, sondern in einen größeren Schatten hineingetreten waren, der sich nicht mehr nur zwischen Wurzeln und Steinen verbarg, sondern zwischen Mauern, Menschen und Worten.
+
+Und während irgendwo über Eisenfurt die Abendluft kühler wurde, wussten Jennina und Toragorn, auch wenn sie es so noch nicht aussprachen, dass sie sich auf einem Weg befanden, der sie nicht so bald wieder loslassen würde.
+
+# SZENARIO 3 - Die Graue Wacht
+Der Abend senkte sich über Eisenfurt, als hätte die Stadt selbst beschlossen, das, was am Tag sichtbar geworden war, nicht weiter im Licht zu tragen. Die Geräusche wurden leiser, die Wege leerer, und zwischen den Häusern lag jene trügerische Ruhe, die nicht aus Frieden entstand, sondern aus Gewohnheit. Menschen zogen sich zurück, Türen schlossen sich, Gespräche verstummten – und doch blieb etwas zurück, ein kaum greifbares Zittern in der Luft, das weder Jennina noch Toragorn zu benennen vermochten.
+
+Sie gingen schweigend nebeneinander her.
+
+Nicht, weil sie nichts zu sagen hatten, sondern weil die Gedanken zu viel Raum einnahmen, um sie sofort in Worte zu fassen. Die Begegnung mit Brenn hatte mehr Fragen aufgeworfen, als sie beantwortet hatte, und selbst das, was sie wussten, fühlte sich nicht vollständig an, sondern wie ein Fragment eines größeren Bildes, das sich nur langsam zusammensetzte.
+
+Das Licht der Laternen begann sich in den feuchten Steinen der Straßen zu spiegeln, als sie schließlich das Gasthaus erreichten. Es war kein besonderer Ort – ein einfacher Bau, wie es ihn in jeder Grenzstadt gab, mit abgenutzten Tischen, warmem Licht und dem Geruch von Essen und altem Holz. Und doch wirkte er in diesem Moment wie eine Grenze zwischen zwei Welten: draußen die Ungewissheit, drinnen ein flüchtiger Anschein von Sicherheit.
+
+Jennina blieb kurz in der Tür stehen.
+
+Der Raum war gefüllt mit Stimmen, mit Bewegung, mit Leben – und dennoch fühlte sie sich fremd darin. Nicht aus Angst, sondern aus Vorsicht. Sie war im Wald aufgewachsen, zwischen Bäumen, nicht zwischen Menschen, die ihre Blicke nicht verbargen. Instinktiv suchte sie die Nähe zu Toragorn, ohne es bewusst zu entscheiden.
+
+Er bemerkte es.
+
+Und ohne etwas zu sagen, trat er einen halben Schritt näher an sie heran.
+
+Sie setzten sich an einen Tisch, nicht im Zentrum des Raumes, sondern leicht am Rand, von wo aus man sowohl die Tür als auch den größten Teil der Gäste im Blick behalten konnte. Es war eine Gewohnheit Toragorns, und Jennina spürte, dass sie sich daran orientierte, ohne es zu hinterfragen.
+
+Für eine Weile geschah nichts.
+
+Und gerade darin lag die Spannung.
+
+Dann öffnete sich die Tür.
+
+Zwei Männer traten ein.
+
+Nicht auffällig.
+
+Nicht laut.
+
+Und doch…
+
+stimmte etwas nicht.
+
+Jennina bemerkte es zuerst.
+
+Nicht bewusst.
+
+Nicht als klaren Gedanken.
+
+Sondern als Gefühl.
+
+Ein leichtes Ziehen.
+
+Ein kaum wahrnehmbarer Bruch in der Harmonie des Raumes.
+
+Ihre Augen wanderten zu den Männern – und in genau diesem Moment hob einer von ihnen den Blick.
+
+Er sah direkt zu Toragorn.
+
+Zu lange.
+
+Zu gezielt.
+
+Jenninas Finger schlossen sich leicht um den Rand des Tisches.
+
+Leise, fast nur ein Hauch, sagte sie:
+„Der hat dich angesehen.“
+
+Toragorn hatte den Blick längst bemerkt.
+
+„Ich hab’s gesehen.“
+
+Die Männer bewegten sich weiter in den Raum hinein, setzten sich, sprachen mit dem Wirt – alles wirkte normal.
+
+Zu normal.
+
+Jennina senkte den Blick kurz.
+
+Dann, leise:
+„Ich glaube nicht, dass das Zufall war.“
+
+Toragorn antwortete nicht sofort.
+
+Dann stand er auf.
+
+„Dann finden wir es heraus.“
+
+Draußen war die Luft kühler.
+
+Die Geräusche der Stadt gedämpft.
+
+Und die Dunkelheit dichter.
+
+Die Männer folgten.
+
+Nicht hastig.
+
+Nicht offensichtlich.
+
+Aber eindeutig.
+
+In einer schmalen Gasse blieben beide Seiten stehen.
+
+Der Abstand zwischen ihnen war klein genug, um jede Bewegung zu sehen.
+
+Groß genug, um einen Kampf beginnen zu lassen.
+
+Die Worte, die fielen, waren knapp.
+
+Zielgerichtet.
+
+Und von Anfang an lag darin keine echte Verhandlung.
+
+Es war Jennina, die als Erste verstand, dass es nicht um einen Zufall ging.
+
+Nicht um einen Streit.
+
+Sondern um Wissen.
+
+Sie wussten.
+
+Vom Anker.
+
+Der Kampf begann schnell.
+
+Zu schnell für lange Überlegungen.
+
+Toragorn bewegte sich mit der Entschlossenheit eines Mannes, der gelernt hatte, Situationen sofort zu entscheiden, bevor sie außer Kontrolle gerieten. Sein Angriff traf hart, präzise, ohne Zögern, und einer der Männer ging bereits zu Boden, noch bevor sich der zweite vollständig auf das Geschehen einstellen konnte.
+
+Doch dieser war anders.
+
+Seine Bewegungen waren nicht die eines gewöhnlichen Kämpfers.
+
+Sie waren… gelenkt.
+
+Als würde etwas durch ihn wirken, nicht nur er selbst.
+
+Jennina spürte es.
+
+Noch bevor sie es verstand.
+
+Ein Flackern.
+
+Ein Schatten.
+
+Etwas, das sich nicht in Worte fassen ließ, aber dennoch eindeutig war.
+
+Als der Mann begann, die Hände zu heben, als würde er einen Zauber wirken, reagierte sie instinktiv. Sie trat einen Schritt vor, hob ihr heiliges Symbol, und in diesem Moment war es nicht nur ihr Wille, der wirkte, sondern etwas, das durch sie hindurchging – ruhig, klar, wie ein Licht, das sich nicht aufdrängt, sondern einfach da ist.
+
+Der Zauber brach ab.
+
+Als hätte man ihm die Grundlage entzogen.
+
+Toragorn nutzte den Moment.
+
+Ein Schritt.
+
+Eine Bewegung.
+
+Und plötzlich lag die Spitze seines Schwertes an der Kehle des Mannes.
+
+So nah, dass selbst ein Atemzug zu viel gewesen wäre.
+
+Der Kampf war vorbei.
+
+Nicht durch Gewalt.
+
+Sondern durch Kontrolle.
+
+„Ich will dich nicht töten…“, sagte Toragorn ruhig.
+„Ich will Antworten.“
+
+Der Mann erstarrte.
+
+Und dann… gab er nach.
+
+Was folgte, war kein Gespräch im üblichen Sinne.
+
+Es war ein Stück Wahrheit, das unter Druck ans Licht kam.
+
+Nicht vollständig.
+
+Nicht klar.
+
+Aber genug.
+
+Er sprach von einer Gemeinschaft.
+
+Von der Grauen Wacht.
+
+Von Menschen, die suchten.
+
+Nicht nach Macht.
+
+Sondern nach Verständnis.
+
+Jennina hörte zu, stellte Fragen, leise, aber bestimmt. Ihre Art war nicht die der Anklage, sondern die des Verstehens – und gerade deshalb öffnete sich der Mann mehr, als er es vielleicht gewollt hätte.
+
+Die Worte, die er sprach, zeichneten ein Bild, das größer war als alles, was sie bisher gesehen hatten.
+
+Anker.
+
+Mehr als einer.
+
+Verteilt.
+
+Verbunden.
+
+Und dann:
+
+die Berührten.
+
+Menschen.
+
+Wie Toragorn.
+
+Die Bedeutung dieser Erkenntnis lag nicht nur in dem, was sie sagte, sondern in dem, was sie auslöste. Zum ersten Mal wurde das, was Toragorn trug, nicht nur als persönliche Last sichtbar, sondern als Teil eines größeren Musters. Etwas, das andere kannten. Etwas, das gesucht wurde.
+
+Jennina fragte nach Heilung.
+
+Nach Rettung.
+
+Nach einem Weg zurück.
+
+Doch die Antworten waren vage.
+
+Unvollständig.
+
+Und nicht beruhigend.
+
+Nicht alle konnten gerettet werden.
+
+Nicht alle wollten es.
+
+Und manche…
+
+wurden zu etwas anderem.
+
+Die Nacht lag schwer über ihnen, als das Gespräch endete. Doch in dieser Schwere lag keine unmittelbare Bedrohung mehr, sondern eine neue Form von Klarheit. Sie hatten nicht alles erfahren. Aber genug, um zu verstehen, dass ihr Weg sich nicht mehr so einfach trennen ließ.
+
+Die Welt, in der sie sich bewegten, war größer geworden.
+
+Dunkler.
+
+Und persönlicher.
+
+Als sie schließlich zurück zum Gasthaus gingen, war es Jennina, die den ersten Schritt machte – nicht physisch, sondern in dem, was sie aussprach.
+
+Dass sie ihm vertraute.
+
+Nicht blind.
+
+Aber bewusst.
+
+Toragorn sah sie an.
+
+Länger als zuvor.
+
+Und in diesem Blick lag etwas, das selbst ihn überraschte.
+
+Vertrautheit.
+
+„Ich bin froh, dass du da bist“, sagte er leise.
+
+Für Jennina war es kein großer Moment.
+
+Kein dramatischer.
+
+Aber ein ehrlicher.
+
+Und genau deshalb bedeutete er mehr als viele andere Worte.
+
+Später, im warmen Licht des Gasthauses, als die Stimmen um sie herum leiser wurden und der Tag endgültig zur Ruhe kam, war es Toragorn, der einen Vorschlag machte, der so schlicht war, dass er fast beiläufig wirkte.
+
+Ein gemeinsames Zimmer.
+
+Nicht aus Nähe.
+
+Sondern aus Zweck.
+
+Und doch…
+
+war es mehr.
+
+Jennina zögerte einen Moment.
+
+Dann nickte sie.
+
+In dieser Entscheidung lag kein Ende.
+
+Kein Abschluss.
+
+Sondern der Anfang von etwas Neuem.
+
+Denn während draußen die Nacht über Eisenfurt lag, still und unscheinbar, hatten sich zwei Wege verbunden, die zuvor nur zufällig nebeneinander verlaufen waren.
+
+Und irgendwo, tief unter der Oberfläche dieser Stadt…
+
+bewegte sich bereits das Nächste.
