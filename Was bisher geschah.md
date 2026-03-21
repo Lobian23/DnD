@@ -311,63 +311,833 @@ Von nun an würden sie den Weg nicht mehr allein gehen.
 # Kapitel 1 - Der Runenkreis von Aelthir
 (gespielt am 10. März 2026)
 
-Während Jennina und Toragorn den Ort untersuchten, wurden sie plötzlich von zwei Wölfen angegriffen. Doch diese Tiere verhielten sich ungewöhnlich aggressiv und wirkten verändert. Ihre Bewegungen waren unnatürlich und ihre Augen glühten auf eine Weise, die nicht zu gewöhnlichen Tieren passte.
+Der Morgen unter den uralten Bäumen war grau, kühl und still.
 
-Jennina und Toragorn zogen ihre Armbrüste und suchten zwischen den Steinen des Kreises Deckung. Der Kampf war kurz, aber gefährlich. Ein Wolf wurde von Bolzen getroffen, während der andere nahe genug kam, um Toragorn anzugreifen. Der Kämpfer hielt stand und setzte schließlich sein Großschwert ein, um die Kreaturen zu besiegen.
+Nicht die friedliche Stille eines Waldes, der in sich ruht. Nicht jenes lebendige Schweigen, in dem man trotz allem das Rascheln kleiner Tiere, das Flattern von Vögeln und das ferne Knacken von Ästen hört. Es war eine andere Stille. Eine, die wie ein feiner Schleier über allem lag. Gedämpft. Unnatürlich. Als hielte der Wald selbst den Atem an.
 
-Nach dem Kampf untersuchten die beiden die Körper der Tiere. Dabei stellten sie fest, dass die Wölfe Spuren einer fremden, dunklen Energie in sich trugen. Jennina spürte, dass hier etwas die natürliche Ordnung des Waldes gestört hatte.
+Zwischen moosbewachsenen Steinen und feuchtem Wurzelwerk stand Jennina und ließ den Blick über den Runenkreis gleiten.
 
-Während sie den Runenkreis weiter untersuchten, entdeckten sie eine Stelle, an der die Erde aufgewühlt war. Nachdem sie einen schweren Runenstein bewegten, offenbarte sich darunter ein Schacht, der tief in die Erde führte.
+Die junge Waldelfe hatte die Kapuze ihres Umhangs zurückgeschlagen. Feine Strähnen ihres braunen Haars hingen ihr in die Stirn, leicht feucht vom Morgennebel. In ihrer Hand hielt sie den Brief ihres verstorbenen Mentors nicht mehr offen, doch sie spürte sein Gewicht noch immer, als hätte jedes Wort sich in ihre Finger eingebrannt.
 
-Jennina befestigte ein Seil an einem Baum am Rand des Kreises. Eine Fackel wurde hinuntergeworfen, um die Tiefe zu erkunden. Schließlich stiegen die beiden vorsichtig hinab.
+Vor ihr ragten die alten Steine von Aelthir aus dem Boden, krumm und verwittert, als hätten Jahrhunderte an ihnen genagt, ohne ihre Würde brechen zu können. Uralte Runen waren in ihre Oberflächen geschnitten, manche kaum noch lesbar, manche deutlicher, aber seltsam stumpf, als sei etwas aus ihnen gewichen. Moos kroch über Kanten und Spalten. Kleine graue Flechten hatten sich in den Vertiefungen angesiedelt. Dennoch wirkte der Ort nicht tot.
 
-Am Boden des Schachts fanden sie eine kleine unterirdische Kammer. Ein schmaler Tunnel führte weiter in den Fels hinein. In einer der Wände befand sich ein Riss, aus dem ein schwaches, unheimliches Leuchten drang.
+Verletzt, dachte Jennina.
 
-Hier reagierte Toragorns seltsames Brandmal zum ersten Mal deutlich auf die dämonische Energie in der Umgebung.
+Sie kniete sich vor einen der Steine und legte vorsichtig die Fingerspitzen auf die kalte Oberfläche. Ein Schauder lief durch ihre Hand. Es war kein Schmerz. Eher ein Eindruck. Ein Widerhall. Etwas Stilles, das nicht still sein wollte.
 
-Jennina und Toragorn folgten dem Tunnel weiter in die Tiefe und erreichten schließlich eine größere Kammer. In ihrer Mitte befand sich eine steinerne Platte, von der Linien zu vier Runensäulen führten. Die Runen waren teilweise beschädigt, und der Mechanismus schien lange Zeit unbenutzt gewesen zu sein.
+„Was ist mit dir geschehen?“, flüsterte sie.
 
-Bei der Untersuchung der Kammer entdeckten sie mehrere steinerne Scheiben mit eingravierten Runen. Nach und nach fanden sie heraus, dass diese Scheiben in Vertiefungen der Säulen eingesetzt werden konnten. Als die Scheiben an ihren richtigen Platz gelegt wurden, begannen die alten Runen erneut schwach zu leuchten.
+Der Wind strich durch die Baumkronen, doch selbst dieses Geräusch klang gedämpft. Jennina hob langsam den Kopf und sah sich um. Kein Vogel. Kein Eichhörnchen. Nicht einmal das ferne Reh, das sonst oft irgendwo zwischen Farnen und Schatten verborgen stand. Nichts.
 
-Der uralte Mechanismus des Druidenkreises erwachte wieder zum Leben.
+Nur diese bedrückende Leere.
 
-Mit einem tiefen Grollen verschob sich die zentrale Steinplatte und gab einen weiteren Abstieg frei.
+Hinter ihr knackte plötzlich ein Ast.
 
-Jennina und Toragorn folgten dem neuen Schacht in eine noch tiefere Höhle unter dem Runenkreis. Dort fanden sie schließlich die Quelle der unheilvollen Energie.
+Jennina fuhr herum und griff instinktiv nach ihrer leichten Armbrust.
 
-In der Mitte der Höhle stand ein großer schwarzer Stein, dessen Oberfläche von grünen, unnatürlich leuchtenden Rissen durchzogen war. Um ihn herum lagen die Knochen vieler Tiere, die offenbar in der Nähe des Steins verendet waren.
+Zwischen den schiefen Steinen des Kreises stand ein Mann.
 
-Aus dem Inneren des Steins strömte dämonische Energie.
+Groß. Breit gebaut. Kettenhemd. Großschwert auf dem Rücken. Hellebarde über der Schulter. Das Morgenlicht, das zwischen den Ästen einfiel, blieb an den Metallringen seiner Rüstung hängen. Sein Gesicht war markant, wettergegerbt, mit kurzem Bart und diesem Ausdruck stiller Wachsamkeit, den nur Menschen hatten, die zu oft in gefährlichen Situationen gestanden hatten, um noch leichtsinnig zu sein.
 
-Als Jennina versuchte, den Stein mit göttlicher Magie anzugreifen, reagierte die dunkle Kraft im Inneren. Eine dämonische Manifestation begann sich aus dem Stein zu formen. Die Luft in der Höhle wurde kalt, und eine verzerrte Schattenform erhob sich aus der dunklen Energie.
+Seine Hand lag nicht an der Waffe, aber nahe genug, dass Jennina sofort sah, wie schnell er sie ziehen könnte.
 
-Jennina rief die Macht ihrer Göttin Mielikki an und versuchte, die dämonische Energie mit einem Gebet zurückzudrängen. Während die Kreatur durch das göttliche Licht geschwächt wurde, nutzte Toragorn die Gelegenheit.
+Für einen Herzschlag lang sagte keiner von beiden etwas.
 
-Mit einem kraftvollen Schlag seines Großschwerts traf er den schwarzen Stein.
+Dann hob Jennina das Kinn ein wenig, ohne die Armbrust ganz sinken zu lassen.
 
-Der Stein begann zu brechen.
+„Ich... bin nicht hier, um zu kämpfen“, sagte sie.
 
-Ein zweiter Schlag ließ die Struktur vollständig zerbrechen. Mit einem lauten Knall zerbarst der dämonische Ankerstein, und die Manifestation löste sich in dunklem Rauch auf.
+Der Mann musterte sie einen Moment lang. Sein Blick glitt über Schild, Streitkolben, Armbrust, über ihr Amulett mit dem Einhornkopf und kurz über die alten Steine, als versuche er, sie und diesen Ort zugleich einzuschätzen.
 
-Mit der Zerstörung des Steins verschwand auch die dämonische Präsenz aus der Höhle.
+„Gut“, antwortete er. Seine Stimme war ruhig, tief und knapp. „Ich auch nicht. Solange es sich vermeiden lässt.“
 
-Jennina und Toragorn untersuchten anschließend die Überreste des Steins. Einige Fragmente trugen noch dämonische Runen und seltsame Vertiefungen. Die beiden nahmen die auffälligen Stücke an sich, um sie später genauer untersuchen zu können.
+Jennina spürte, wie ihr Herz etwas langsamer schlug. Nicht viel. Nur gerade genug, um wieder klarer denken zu können.
 
-Nachdem sie die Höhle verlassen hatten, kehrten sie in die Kammer mit den vier Runensäulen zurück. Dort entfernten sie die zuvor eingesetzten Steinscheiben wieder aus den Säulen, wodurch das Leuchten der Runen endgültig erlosch.
+„Mein Name ist Jennina“, sagte sie. „Ich komme aus Silvanhain.“
 
-Als sie schließlich den Tunnel zurückgingen und den Schacht hinaufkletterten, erreichten sie wieder den Runenkreis von Aelthir an der Oberfläche.
+„Toragorn“, entgegnete der Mann. „Eisenfurt.“
 
-Die Atmosphäre im Wald hatte sich verändert.
+Mehr sagte er zunächst nicht.
 
-Die bedrückende Stille war verschwunden. Vögel begannen wieder zwischen den Bäumen zu singen, und der Wald wirkte lebendiger als zuvor.
+Jennina nickte leicht. „Du bist auch wegen des Kreises hier?“
 
-Die unmittelbare Bedrohung unter dem Runenkreis war gebannt.
+„Ja.“
 
-Doch Jennina und Toragorn wussten nun, dass unter den alten Steinen eine dunkle Macht gewirkt hatte – und dass dieser Ort eine weit größere Bedeutung besitzen könnte, als sie zunächst vermutet hatten.
+„Warum?“
 
-So endete ihr erstes gemeinsames Abenteuer unter dem Runenkreis von Aelthir.
+Sein Blick ruhte weiterhin auf ihr. „Auftrag.“
 
-Doch ihre Reise hatte gerade erst begonnen.
+Sie zögerte. Dann hob sie leicht den Brief in ihrer Hand. „Mein Mentor hat mich geschickt. Beziehungsweise...“ Sie stockte, und ihre Stimme wurde leiser. „Er starb, bevor ich aufbrechen konnte. Aber sein letzter Brief führte mich hierher.“
+
+Etwas in Toragorns Blick veränderte sich kaum merklich. Kein Mitleid. Keine weiche Geste. Nur das stille Zeichen, dass er verstand, was Verlust mit einer Stimme machen konnte.
+
+„Dann suchen wir wohl dasselbe“, sagte er.
+
+Jennina sah noch einmal zum Steinkreis. „Antworten.“
+
+Toragorn nickte einmal. „Antworten.“
+
+So begann es.
+
+Nicht mit einem Schwur, nicht mit einem Handschlag, nicht mit irgendeinem feierlichen Bündnis. Nur mit zwei Fremden, die in derselben Unruhe standen und erkannten, dass ihre Gründe verschieden sein mochten, aber ihr Ziel es nicht war.
+
+Gemeinsam begannen sie, den Kreis genauer zu untersuchen.
+
+Jennina bewegte sich zwischen den Steinen mit jener vorsichtigen Aufmerksamkeit, die ihr eigen war. Sie suchte nicht bloß nach sichtbaren Spuren, sondern nach Stimmungen, Veränderungen, leisen Abweichungen. Hier ein Fleck Erde, auf dem Pflanzen kümmerlicher wuchsen. Dort eine Stelle, an der das Moos sich verfärbt hatte. An einem Stein entdeckte sie eingeritzte Linien, die neuer wirkten als die uralten Runen, als hätte etwas oder jemand die Oberfläche nachträglich beschädigt.
+
+Toragorn hingegen achtete auf die Dinge, die im Greifbaren lagen. Schuhspuren im feuchten Boden. Eine verschobene Steinplatte. Verdichtete Erde. Kleine Bruchstellen im Unterholz, die verrieten, dass hier mehr Bewegung stattgefunden hatte, als ein heiliger, vergessener Ort eigentlich kennen sollte.
+
+Nach einer Weile blieb er neben einem flachen Stein stehen und kniete sich hin.
+
+„Hier“, sagte er.
+
+Jennina trat zu ihm. „Was hast du gefunden?“
+
+Er deutete auf den Boden. „Mehrere Spuren. Nicht alt. Vielleicht ein paar Tage. Vielleicht weniger.“
+
+Jennina kniete sich neben ihn, ohne zu merken, wie nah sie ihm dabei kam. Erst als ihr Ärmel sein Kettenhemd streifte, wurde sie sich dessen bewusst und zog leicht die Schultern an. Toragorn sagte nichts dazu. Sein Blick blieb auf den Boden gerichtet.
+
+„Menschen?“, fragte sie.
+
+„Mindestens einer“, sagte er. „Vielleicht zwei. Schwer zu sagen. Der Boden ist gestört.“
+
+Jennina sah von den Spuren zum Stein und dann zum Kreis selbst. „Jemand ist also nicht nur zufällig hier vorbeigekommen.“
+
+„Nein.“
+
+Sie wollte gerade etwas erwidern, als ein tiefes, kehliges Knurren durch die Stille schnitt.
+
+Sofort erstarrten beide.
+
+Jenninas Kopf fuhr herum. Zwischen zwei Steinen, halb im Schatten, stand ein Wolf.
+
+Auf den ersten Blick wirkte er wie jeder andere: graues Fell, gespannte Muskeln, gefletschte Zähne. Doch dann sah sie seine Augen. Ein unnatürliches Glimmen lag darin, grünlich und krank, wie faules Licht unter Eis. Das Fell an seinem Nacken stand starr ab, und seine Bewegungen hatten etwas zu Abgehacktes, als folge es einem Zorn, der nicht ganz zu ihm gehörte.
+
+„Toragorn...“, flüsterte Jennina.
+
+„Ich sehe ihn.“
+
+Ein zweites Knurren ertönte, näher, tiefer.
+
+Der zweite Wolf trat hinter einem schräg stehenden Stein hervor.
+
+Jenninas Finger schlossen sich fester um die Armbrust. Ihr Mund wurde trocken. Sie hatte Wölfe gesehen. Mit ihnen gesprochen. Sie hatte ihre Vorsicht gekannt, ihre Jagdinstinkte, ihre Rudelintelligenz. Aber das hier war falsch. Die Tiere wirkten nicht wie Jäger. Sie wirkten wie etwas, das durch einen Riss in sich selbst getrieben worden war.
+
+Toragorn zog in einer fließenden Bewegung seine leichte Armbrust.
+
+„Deckung“, sagte er knapp.
+
+Beide wichen gleichzeitig zurück, suchten die Seiten eines breiten Runensteins. Jennina ging hinter einem flacheren Monolithen in die Hocke, den Schild halb vor sich, die Armbrust darüber angelegt. Ihr Herz hämmerte in ihren Ohren.
+
+Der erste Wolf schlich näher. Langsam. Knurrend. Seine Läufe wirkten angespannt wie gespannte Sehnen.
+
+Jennina flüsterte fast unhörbar: „Mielikki, steh uns bei...“
+
+Toragorns Stimme kam ruhig über den Stein hinweg. „Auf den vorderen.“
+
+Jennina nickte, obwohl er das vermutlich gar nicht sehen konnte.
+
+Dann brach die Bewegung los.
+
+Der erste Wolf sprang.
+
+Jennina drückte ab.
+
+Der Bolzen schoss zischend durch die Luft und traf das Tier seitlich in die Schulter. Ein kurzer, rauer Laut entrang sich seiner Kehle, doch statt zusammenzubrechen, taumelte es nur, wirbelte halb herum und kam wieder auf die Läufe. Das grünliche Glimmen in seinen Augen flackerte wütend.
+
+Fast im selben Augenblick löste sich auch Toragorns Schuss.
+
+Sein Bolzen traf den zweiten Wolf in die Brust. Das Tier wurde zurückgerissen, schlug mit den Pfoten in die Erde und heulte auf – doch auch es blieb auf den Beinen.
+
+„Zu zäh“, knurrte Toragorn.
+
+Der erste Wolf kam erneut. Jetzt schneller. Jennina warf die Armbrust nicht weg, aber sie wusste, dass keine Zeit für einen weiteren Schuss blieb. Hastig zog sie den Schild hoch, als das Tier über den niedrigen Stein hinwegsetzte.
+
+Es prallte gegen sie wie ein grauer Muskel aus Wut und Fell. Die Wucht riss sie fast rückwärts. Krallen kratzten über das Holz ihres Schildes. Speichel spritzte ihr entgegen. Der Geruch des Tieres war scharf, faulig und irgendwie metallisch.
+
+„Weg von ihr!“, rief Toragorn.
+
+Jennina hörte das Geräusch schwerer Schritte, dann das Zischen von Stahl.
+
+Toragorn hatte die Armbrust fallen lassen und sein Großschwert gezogen. Mit beiden Händen führte er die Klinge und schlug von der Seite auf den Wolf ein, der Jennina bedrängte. Die Wucht des Hiebs traf das Tier an den Rippen und schleuderte es zur Seite. Es jaulte auf, rollte über den Boden und kam taumelnd wieder hoch.
+
+Jennina rang nach Luft. Ihre Hände zitterten, doch sie riss ihren Streitkolben vom Gürtel und kam wieder auf die Beine.
+
+Der zweite Wolf stürzte nun auf Toragorn zu.
+
+Er fing den Angriff frontal ab. Die Kreatur sprang ihm an die Brust, Zähne nach seiner Kehle schnappend. Toragorn stemmte sich dagegen, ein Stiefel rutschte auf feuchtem Moos weg, doch er hielt stand. Für einen Augenblick waren Mensch und Tier ineinander verkeilt – Kette gegen Krallen, Muskeln gegen Raserei.
+
+„Jennina!“
+
+Sie reagierte sofort. Nicht nachdenken. Nur handeln.
+
+Mit einem kurzen Aufschrei stürmte sie heran und schlug den Streitkolben gegen die Flanke des Wolfs. Der Treffer war nicht perfekt, aber hart genug, um das Tier aus dem Gleichgewicht zu bringen. Toragorn nutzte den Moment, riss das Großschwert hoch und ließ es in einem brutalen Bogen niedersausen.
+
+Die Klinge traf.
+
+Der Wolf brach zusammen.
+
+Ein heiseres Wimmern entrang sich ihm noch, dann blieb er liegen.
+
+Der erste Wolf, verletzt, aber noch immer wahnsinnig vor Aggression, machte einen letzten Satz auf Jennina zu.
+
+Sie hob instinktiv die freie Hand. Göttliche Energie sammelte sich in ihren Fingern, rosafarben, warm und klar wie Morgenlicht auf Wasser. „Heilige Flamme!“
+
+Ein schimmernder Lichtstrahl brach auf den Wolf herab. Das Tier zuckte, fauchte und versuchte auszuweichen, aber das göttliche Feuer traf es dennoch. Für einen Moment wirkte sein Fell, als stünde es von innen heraus unter kaltem Licht.
+
+Toragorn war bereits da.
+
+Mit einem letzten, kraftvollen Hieb beendete er den Kampf.
+
+Stille.
+
+Keine heldenhafte. Keine triumphierende. Nur das angespannte Nachhallen von Gewalt, wenn die Luft noch immer voller Atem, Herzschlag und Adrenalin ist.
+
+Jennina stand da, den Streitkolben in beiden Händen, und bemerkte erst jetzt, wie schnell sie atmete. Ihre Beine fühlten sich weich an. Das unnatürliche Knurren war verstummt. Stattdessen hörte sie nur das Tropfen von Blut auf Erde und das leise Scheuern von Toragorns Klinge, als er sie an Gras und Moos reinigte.
+
+Er sah zu ihr hinüber. „Verletzt?“
+
+Jennina brauchte einen Moment, um zu antworten. „Ich... glaube nicht. Nur... erschrocken.“
+
+Ein fast unsichtbarer Zug ging über sein Gesicht. Vielleicht Erleichterung. Vielleicht nur die Feststellung, dass sie noch stand.
+
+„Gut.“
+
+Sie sah zu den toten Wölfen. Je länger sie hinsah, desto deutlicher wurde dieses falsche Gefühl, das von ihnen ausging. Die Tiere wirkten nun fast normal – fast. Aber die Augen hatten selbst im Tod noch etwas Trübes, Grünliches. An den Lefzen klebte nicht nur Schaum, sondern ein dunklerer, zäher Schleim. Jennina trat vorsichtig näher und kniete sich hin.
+
+„Warte“, sagte Toragorn.
+
+„Ich muss sie ansehen.“
+
+Er stellte sich dicht neben sie, das Schwert noch in der Hand, als rechne er jederzeit mit einem weiteren Angriff.
+
+Jennina legte zwei Finger vorsichtig an das Fell des näheren Wolfs. Sofort lief ein kalter Schauder durch ihre Hand. Kein natürlicher Tod. Keine gewöhnliche Krankheit. Etwas war in dieses Tier gedrungen und hatte es verzerrt.
+
+„Das ist nicht einfach Raserei“, murmelte sie. „Etwas hat sie verändert.“
+
+Toragorn sah auf das tote Tier hinab. „Magie?“
+
+„Ja“, sagte Jennina leise. „Aber nicht die Art, die heilt oder schützt. Eher... wie eine Verderbnis. Ein Eindringen.“
+
+Toragorns Blick glitt langsam über den Kreis. „Dann kommt es von hier.“
+
+Jennina wollte zustimmen, als ihr Blick auf etwas im Fell hängenblieb. Nahe dem Nacken, fast verborgen zwischen grauen Haaren, schimmerte etwas Dunkles. Sie teilte das Fell vorsichtig und zog scharf die Luft ein.
+
+Unter der Haut zeichneten sich feine schwarze Adern ab, dünn wie Tinte in Wasser. Sie pulsierten nicht mehr, aber sie wirkten, als wären sie noch vor kurzem von einer fremden Kraft erfüllt gewesen.
+
+„Bei Mielikki...“
+
+„Was?“
+
+„Sieh selbst.“
+
+Toragorn trat näher. Sein Blick verengte sich.
+
+„Das habe ich noch nie gesehen.“
+
+Jennina nickte langsam. „Ich auch nicht.“
+
+Sie stand wieder auf und wischte sich unbewusst die Finger an ihrem Umhang ab, obwohl sie den Eindruck nicht loswurde, die Kälte sitze tiefer als auf ihrer Haut.
+
+Für einige Atemzüge sagten beide nichts. Der Kampf hatte etwas bestätigt, das keiner von ihnen mehr übersehen konnte: Der Runenkreis war nicht nur alt, nicht nur beschädigt, nicht nur vergessen. Er war mit etwas verbunden, das den Wald vergiftete.
+
+Toragorn wandte sich schließlich wieder den Spuren zu, die er zuvor entdeckt hatte. Diesmal folgte Jennina seinem Blick sofort.
+
+„Wenn diese Wölfe von hier kamen“, sagte er, „dann gibt es vielleicht einen Zugang. Irgendwo.“
+
+Sie nickte. „Lass uns weitersuchen.“
+
+Die Untersuchung wurde gründlicher.
+
+Jennina umrundete den Kreis langsam, ließ die Finger über Stein gleiten, über Risse, über uralte Einkerbungen. Toragorn prüfte lose Steinplatten, den Boden zwischen Wurzeln, sogar die kleineren Felsbrocken, die ringsum halb im Erdreich steckten. Er stemmte einen flachen Stein mit dem Stiefel an, bewegte einen anderen mit der Schulter und blieb schließlich bei einer Stelle stehen, die zunächst unscheinbar wirkte.
+
+Die Erde dort war dunkler.
+
+Nicht viel. Nur leicht. Doch sie war lockerer als ringsum, als wäre sie vor kurzer Zeit aufgewühlt worden. Daneben stand ein schwerer, flacher Runenstein etwas schiefer als die übrigen.
+
+„Hier“, sagte Toragorn.
+
+Jennina trat hinzu und sah sofort, was er meinte. „Das ist nicht natürlich.“
+
+Toragorn kniete sich hin und schob mit der Hand Erde beiseite. Unter der lockeren Schicht kam Stein zum Vorschein. Nicht bloß Fels. Eine glattere Fläche.
+
+Jenninas Herz schlug schneller. „Hilf mir.“
+
+Gemeinsam arbeiteten sie die Stelle frei. Erde wurde mit Händen, Messer und einem Stück Holz beiseitegeschoben. Bald zeigte sich, dass der schief stehende Runenstein auf einer Art verborgener Abdeckung ruhte. Es war kein simpler Deckel, sondern eher eine steinerne Platte, die durch das Gewicht des Monolithen verborgen worden war.
+
+Toragorn richtete sich auf. „Wenn darunter etwas ist, wird das schwer.“
+
+Jennina sah an dem Stein empor und schluckte. „Wie schwer?“
+
+Er legte beide Hände dagegen und drückte leicht. Der Monolith bewegte sich kaum merklich.
+
+„Sehr schwer.“
+
+Jennina biss sich kurz auf die Lippe. Dann sah sie sich um. „Wir könnten Hebelwirkung nutzen.“
+
+Toragorn warf ihr einen kurzen Blick zu. „Du denkst schnell.“
+
+Sie wurde augenblicklich etwas rot und tat so, als beschäftige sie sich bereits mit dem Boden. „Ich... also... das ist nur naheliegend.“
+
+Er sagte nichts weiter, aber der Hauch eines zustimmenden Ausdrucks blieb.
+
+Mit einem abgebrochenen Ast, einem Stück Stein und Toragorns Brecheisen schufen sie einen provisorischen Hebel. Toragorn setzte die Stange an, stemmte sich mit aller Kraft dagegen, und Jennina half, wo sie konnte, indem sie kleinere Steine unterlegte und die Basis sicherte.
+
+Langsam. Unter knirschendem Protest von Stein auf Stein. Zentimeter für Zentimeter.
+
+Dann ruckte der Monolith zur Seite.
+
+Ein kalter Luftzug strich ihnen entgegen.
+
+Beide hielten inne.
+
+Unter der nun freigelegten Steinplatte zeichnete sich ein schmaler Rand ab – künstlich, rechteckig, nicht von Natur geschaffen.
+
+Toragorn ließ das Hebelwerk sinken und hockte sich hin. „Da ist etwas.“
+
+Jennina kniete sich neben ihn. Gemeinsam packten sie den Rand der Platte.
+
+„Bereit?“, fragte Toragorn.
+
+Jennina nickte.
+
+„Dann.“
+
+Mit vereinter Kraft hoben sie. Die Platte war schwer, aber beweglicher als der Monolith. Sie glitt zur Seite und legte eine dunkle Öffnung frei.
+
+Ein Schacht.
+
+Schwärze starrte ihnen entgegen.
+
+Jennina spürte, wie sich ihr Magen zusammenzog. Nicht vor gewöhnlicher Angst. Es war eher das Gefühl, an den Rand einer verborgenen Wahrheit getreten zu sein. Der Ort unter ihnen wirkte, als habe er viel zu lange darauf gewartet, wieder entdeckt zu werden.
+
+Toragorn nahm eine Fackel aus seinem Gepäck, entzündete sie mit der Zunderbüchse und hielt sie über die Öffnung. Das Licht fiel hinab, flackernd, orange und klein gegen die Tiefe. Grob behauene Wände wurden sichtbar. Dann, weiter unten, ein unebener Boden.
+
+„Tiefer als ich dachte“, murmelte er.
+
+Jennina sah in den Schacht und bekam einen kalten Schauer. „Das erklärt, warum niemand ihn zufällig gefunden hat.“
+
+„Ja.“
+
+Toragorn prüfte die Seitenwände. „Wir brauchen das Seil.“
+
+Jennina nickte sofort und ging zu einem Baum am Rand des Kreises. Mit geübten Fingern befestigte sie das Hanfseil mehrfach um den dicken Stamm, zog die Knoten fest und prüfte sie noch einmal. Ihre Hände waren ruhiger, sobald sie etwas Praktisches taten. Etwas Greifbares. Etwas, das man richtig oder falsch machen konnte.
+
+„Es hält“, sagte sie.
+
+Toragorn trat zu ihr, legte prüfend die Hand an das Seil und nickte. „Gut.“
+
+Er sah in den Schacht. Dann zu Jennina. „Ich gehe zuerst.“
+
+Sie wollte protestieren – nicht aus Stolz, sondern weil ihr Mentor sie gelehrt hatte, Gefahren gemeinsam abzuwägen –, aber sie erkannte sofort, dass er in dieser Frage nicht aus Überheblichkeit sprach, sondern aus Erfahrung.
+
+„In Ordnung“, sagte sie.
+
+Er befestigte sich das Seil, steckte die Fackel zwischen Zähne und Schulter, ließ sich über den Rand sinken und begann hinabzuklettern. Das Seil spannte sich. Die Fackel malte zitternde Schatten an die Schachtwand.
+
+Jennina kniete am Rand und sah ihm nach.
+
+„Geht es?“, rief sie leise.
+
+„Ja.“
+
+Sekunden vergingen. Dann noch mehr.
+
+„Boden!“, kam seine Stimme gedämpft von unten. „Komm nach.“
+
+Jennina atmete tief durch, befestigte Schild und Armbrust so gut es ging und begann den Abstieg. Die Schachtwand war feucht und kühl. Hier unten roch es nach altem Stein, Erde und etwas Schwerem, Mineralischem. Das Licht von Toragorns Fackel kam ihr entgegen wie ein kleiner Stern in der Dunkelheit.
+
+Als ihre Stiefel schließlich den Boden erreichten, ließ sie das Seil los und richtete sich auf.
+
+Sie standen in einer kleinen unterirdischen Kammer.
+
+Die Decke war niedrig genug, dass Toragorn beinahe den Kopf einziehen musste. Die Wände bestanden aus rohem Fels, teilweise jedoch geglättet oder bearbeitet. Der Boden war staubig, doch nicht unberührt. Wieder entdeckte Toragorn Spuren – hier unten deutlicher, frischer.
+
+Jenninas Blick glitt über die Kammer. An einer Wand verliefen schwache, eingemeißelte Linien, fast wie Reste eines alten Musters. Auf dem Boden lagen Steinbrocken, vielleicht von der Decke gefallen, vielleicht bewusst beiseitegeschafft. Gegenüber der Einstiegsstelle führte ein schmaler Tunnel tiefer in den Fels.
+
+Und in einer der Seitenwände befand sich ein Riss.
+
+Aus ihm drang ein schwaches, kränkliches Leuchten.
+
+Grün.
+
+Jennina hielt unwillkürlich den Atem an.
+
+„Siehst du das?“, flüsterte sie.
+
+Toragorns Gesicht war im Fackelschein hart gezeichnet. „Ja.“
+
+Er trat langsam näher an den Riss heran. Das Licht war nicht hell genug, um die Kammer zu erleuchten, aber genug, um den Spalt wie eine offene Wunde wirken zu lassen. Je näher er kam, desto stiller wurde er.
+
+Dann spannte sich sein Körper sichtbar an.
+
+Seine linke Hand schoss an den Verband an seinem Oberarm.
+
+Jennina fuhr herum. „Toragorn?“
+
+Er atmete scharf aus, als hätte ihn etwas unerwartet getroffen.
+
+„Mein Arm“, sagte er gepresst.
+
+Jennina trat sofort zu ihm. „Was ist?“
+
+Er hielt die Hand fest auf den Verband gedrückt. Unter dem Stoff zeichnete sich für einen flüchtigen Moment ein schwaches Pulsieren ab – grünlich-schwarz, als reagiere etwas unter seiner Haut auf das Licht im Riss.
+
+Jennina starrte darauf, erschrocken und fasziniert zugleich. „Es... reagiert.“
+
+Toragorns Kiefer mahlte. „Ja.“
+
+„Tut es weh?“
+
+Er schwieg einen Augenblick. „Nicht wie eine Wunde. Eher... als würde etwas antworten.“
+
+Jennina sah vom Verband zu dem Riss in der Wand. Ein kaltes Gefühl kroch ihr über den Rücken. „Dann hängt es zusammen.“
+
+„Offensichtlich.“
+
+Seine Stimme war wieder fest, aber sie hörte die Anspannung darunter.
+
+Jennina wollte fragen, was das Mal wirklich war, seit wann es so reagierte, ob es jemals zuvor so gewesen war. Doch sie tat es nicht. Nicht hier. Nicht jetzt. Die Dunkelheit dieses Ortes schien nicht der richtige Raum für solche Fragen.
+
+Stattdessen sagte sie leise: „Wir müssen vorsichtig sein.“
+
+Toragorn nickte. „Von jetzt an noch mehr.“
+
+Sie untersuchten die Kammer kurz, fanden jedoch keine weiteren Ausgänge außer dem Tunnel. Also folgten sie ihm.
+
+Der Gang war eng. An manchen Stellen musste Toragorn sich seitlich drehen. Feuchte Kälte hing in der Luft. Hier und da glänzten mineralische Adern im Fels, doch nichts davon war so unheimlich wie das schwache grüne Schimmern, das von weiter unten zu kommen schien. Das Licht der Fackel warf ihre Schatten lang und zerrissen an die Wände.
+
+Jennina spürte ihr Herz wieder schneller schlagen.
+
+„Glaubst du, jemand hat das gebaut?“, fragte sie leise, mehr um das Schweigen zu brechen als aus bloßer Neugier.
+
+Toragorn ließ den Blick über die Wände gleiten. „Zum Teil. Der Schacht. Die Kammer. Vielleicht auch dieser Tunnel. Aber manches hier wirkt älter.“
+
+Jennina nickte. „Als wäre etwas Natürliches genommen und verändert worden.“
+
+„Ja.“
+
+Sie gingen weiter.
+
+Dann weitete sich der Tunnel plötzlich.
+
+Vor ihnen lag eine größere Kammer.
+
+Jennina blieb am Eingang stehen und hob unwillkürlich die Fackel höher. Das Licht flackerte über einen Raum, der einst geordnet gewesen sein musste. In seiner Mitte befand sich eine steinerne Platte, rechteckig und leicht erhöht, in deren Oberfläche Linien eingemeißelt waren. Diese Linien verliefen nach außen und führten zu vier Runensäulen, die im gleichen Abstand rund um die Platte standen.
+
+Oder vielmehr: gestanden hatten.
+
+Denn zwei der Säulen wirkten beschädigt, eine war gesprungen, eine andere leicht verschoben. Die Runen auf ihren Oberflächen waren teilweise ausgelöscht, teilweise stumpf, als läge lange verlassene Macht in ihnen.
+
+Jennina trat langsam ein. „Ein Ritualraum“, murmelte sie. „Oder ein Mechanismus.“
+
+Toragorn prüfte die Umgebung. „Vielleicht beides.“
+
+Sie gingen vorsichtig tiefer hinein.
+
+Auf der zentralen Steinplatte lagen Staub und kleine Bruchstücke. An mehreren Stellen sah Jennina runde Vertiefungen, als hätten dort einst Gegenstände gesessen. Die Linien zwischen Platte und Säulen sahen aus wie Kanäle oder Leitbahnen für etwas, das einst durch den Stein geflossen war – Wasser, Licht, Magie, was auch immer dieser Ort einmal genutzt hatte.
+
+„Siehst du das?“, fragte Jennina und strich mit dem Finger über eine der Vertiefungen.
+
+Toragorn kam näher. „Fehlt etwas.“
+
+„Ja.“
+
+Sie begannen, die Kammer zu durchsuchen.
+
+Bald entdeckte Jennina die erste steinerne Scheibe. Sie lag halb unter Geröll, kreisrund, etwa tellergroß, mit eingravierten Runen und Symbolen. Die Kanten waren abgeschliffen, als habe sie genau in eine passende Fassung gehört.
+
+„Toragorn.“
+
+Er trat zu ihr und hob die Scheibe an. „Schwer.“
+
+Jennina deutete auf die Säule links von ihnen. „Dort ist eine Vertiefung. Sie hat dieselbe Form.“
+
+Sie trugen die Scheibe hinüber. Tatsächlich passte sie fast genau in die Aussparung der Säule. Allerdings zögerte Jennina.
+
+„Nicht sofort einsetzen“, sagte sie. „Wir wissen nicht, was dann passiert.“
+
+Toragorn hob eine Braue. „Vernünftig.“
+
+„Danke“, murmelte Jennina und sah schnell wieder zur Kammer, ehe er bemerken konnte, dass sie durch das Lob erneut leicht verlegen wurde.
+
+Nach und nach fanden sie weitere Scheiben. Eine lag hinter einer losen Steinplatte. Eine andere in einer Nische nahe der Wand. Die letzte mussten sie erst aus Staub und Geröll freilegen. Jede trug andere Runen, andere Zeichen, und keine wirkte zufällig.
+
+Jennina setzte sich schließlich auf die Fersen und legte die vier Scheiben nebeneinander auf den Boden. Sie betrachtete ihre Muster, die Runen, die Ausrichtung. Ihr Geist begann automatisch, Zusammenhänge zu suchen, so wie er es bei Arvions Texten getan hatte.
+
+„Es ist eine Ordnung“, murmelte sie.
+
+Toragorn stand mit verschränkten Armen daneben. „Welche?“
+
+Jennina zeigte auf eine Scheibe. „Diese Rune hier steht für Quelle oder Ursprung. Diese dort eher für Schutz oder Umfassung. Und die hier...“
+
+Sie brach ab und runzelte die Stirn.
+
+„Was?“, fragte Toragorn.
+
+„Nicht sicher. Vielleicht Reinigung. Vielleicht Bindung.“
+
+„Vielleicht?“
+
+Sie warf ihm einen kurzen Blick zu. „Alte Runen sind nicht immer eindeutig.“
+
+„Verstanden.“
+
+Jennina nahm eine der Scheiben in die Hand und ging zur unbeschädigtesten Säule. Dort verglich sie die Einkerbungen an der Fassung mit den Linien auf dem Stein. Langsam formte sich in ihrem Kopf ein Muster.
+
+„Ich glaube, diese gehört hier hinein.“
+
+Toragorn trat näher. „Dann probieren wir es.“
+
+Jennina nickte, setzte die Scheibe vorsichtig ein – und hielt unwillkürlich den Atem an.
+
+Nichts geschah.
+
+Einen Augenblick lang jedenfalls.
+
+Dann glomm die Rune auf.
+
+Nur schwach. Ein silbriges, fast blasses Leuchten lief durch die eingegrabenen Linien der Säule, zögernd wie jemand, der nach langer Zeit wieder zu sprechen versucht.
+
+Jennina wich einen halben Schritt zurück. „Es funktioniert.“
+
+Toragorns Blick glitt sofort durch die Kammer, suchte nach Gefahr. „Dann die anderen.“
+
+Die Arbeit wurde zu einem Rätsel.
+
+Jennina entschlüsselte, verglich, probierte. Toragorn half, indem er die schweren Scheiben trug, die Säulen prüfte und sie aufmerksam beobachtete, falls eine falsche Bewegung irgendeinen Mechanismus oder eine Falle auslösen sollte.
+
+Einmal setzte Jennina eine Scheibe in die falsche Fassung.
+
+Sofort lief ein kurzes, kratzendes Geräusch durch den Stein, unangenehm wie ein Fehlton, und das erste Leuchten flackerte.
+
+Jennina zog die Hand zurück. „Nein. Falsch.“
+
+„Kannst du es korrigieren?“
+
+„Ja.“
+
+Sie nahm die Scheibe heraus, drehte sie nachdenklich zwischen den Fingern und atmete tief aus. „Die Zeichen stehen nicht nur für Begriffe. Sie stehen auch in Beziehung zueinander.“
+
+Toragorn sah sie an. „Du sprichst mit Steinen, als wären sie Leute.“
+
+Jennina blinzelte überrascht. Dann huschte tatsächlich ein kleines, scheues Lächeln über ihr Gesicht. „Manche Leute sind leichter zu verstehen.“
+
+Für einen Moment sah es beinahe so aus, als würde Toragorn darauf ebenfalls lächeln.
+
+Dann war der Augenblick vorbei, und beide arbeiteten weiter.
+
+Schließlich saßen alle vier Scheiben an ihrem Platz.
+
+Jennina trat langsam zurück.
+
+Die Runen an den Säulen glommen nun alle. Nicht hell, nicht strahlend, aber lebendig. Licht floss durch die Linien des Bodens zur zentralen Steinplatte. Ein tiefes Summen entstand, kaum hörbar und doch in den Knochen spürbar.
+
+„Etwas passiert“, sagte Toragorn.
+
+Jennina nickte nur.
+
+Ein dumpfes Grollen ging durch die Kammer.
+
+Staub rieselte von der Decke. Dann begann die zentrale Steinplatte sich zu bewegen. Langsam erst. Schwerfällig. Als müsste uraltes Gewicht gegen uralte Zeit ankämpfen. Doch sie verschob sich tatsächlich – Stück für Stück zur Seite – und gab darunter eine weitere Öffnung frei.
+
+Ein zweiter Schacht.
+
+Tiefer.
+
+Dunkler.
+
+Und aus ihm stieg nun deutlich jenes grünliche Leuchten empor, das sie zuvor nur als schwachen Schein wahrgenommen hatten.
+
+Jennina spürte, wie sich ihr Magen zusammenzog. „Da unten ist es.“
+
+Toragorns Hand wanderte wieder kurz an seinen Oberarm. „Ja.“
+
+Diesmal mussten sie nicht lange beraten. Beide wussten, dass Umkehr keine Antwort mehr war. Sie hatten sich bereits zu tief hineingewagt, um nun mit halben Erkenntnissen wieder ans Licht zu gehen.
+
+Also bereiteten sie den zweiten Abstieg vor.
+
+Hier unten war der Schacht kürzer, aber schwieriger. Sie nutzten erneut das Seil, befestigten es an einer der massiven Säulen, und Toragorn stieg zuerst. Das grüne Licht wurde stärker, je tiefer sie kamen. Nicht hell, aber allgegenwärtig. Es färbte die Felskanten, die Luft, selbst die Schatten auf eine krankhafte Weise.
+
+Als Jennina unten ankam, stockte ihr der Atem.
+
+Die Höhle war größer als alles zuvor.
+
+Die Decke verlor sich in Dunkelheit. Der Boden war uneben, mit Geröll, feuchten Flecken und... Knochen.
+
+Überall lagen Knochen.
+
+Kleine Rippenbögen. Schädel von Rehen. Gebrochene Läufe. Tierische Überreste, verstreut um einen einzigen Mittelpunkt, als wären sie in diesem Raum verendet oder hierhergezogen worden.
+
+Und in der Mitte stand der Stein.
+
+Er war etwa mannshoch, schwarz wie verglaste Kohle und von tiefen, grün leuchtenden Rissen durchzogen. Diese Risse pulsierten schwach, als flösse darunter etwas Flüssiges, Lebendiges, Verderbtes. Seine Oberfläche wirkte zugleich natürlich und bearbeitet, als wäre ein Stück Fels zu etwas anderem gemacht worden.
+
+Jennina starrte ihn an.
+
+„Das... ist kein gewöhnlicher Stein.“
+
+„Nein“, sagte Toragorn. Seine Stimme klang hart. „Das ist der Ursprung.“
+
+Jennina ging langsam einige Schritte vor, bis ihr Blick die Knochen ganz erfasste. „Die Tiere... sie sind hier gestorben.“
+
+„Oder hierhergelockt worden.“
+
+Sie schloss kurz die Augen. Es fiel ihr schwer, die Schwere dieses Ortes nicht körperlich zu empfinden. Der Stein strahlte nichts aus, was man einfach Magie nennen konnte. Es war mehr wie ein Druck. Eine Verdrehung. Als wolle etwas durch ihn in die Welt sickern.
+
+Toragorn zog scharf die Luft ein.
+
+Jennina sah zu ihm. Unter seinem Verband pulsierte das Mal erneut, deutlicher als zuvor.
+
+„Toragorn—“
+
+„Ich weiß.“
+
+Er hob die linke Hand, als wolle er sie von weiteren Fragen abhalten. Seine Augen blieben auf den schwarzen Stein gerichtet. „Er reagiert auf mich. Oder ich auf ihn.“
+
+Jennina trat neben ihn. „Dann müssen wir ihn zerstören.“
+
+Toragorns Blick blieb kalt. „Das hatte ich ohnehin vor.“
+
+Sie nickte. Dann hob Jennina langsam ihr heiliges Symbol. Das Einhornamulett lag kühl in ihrer Hand, doch unter ihren Fingern sammelte sich bereits Wärme. Rosa Schimmer glitt über ihre Haut, zart und klar, vollkommen anders als das kränkliche Grün des Steins.
+
+„Mielikki“, flüsterte sie, „wenn dieser Ort entweiht ist, gib mir Kraft, ihn zu reinigen.“
+
+Sie trat einen halben Schritt vor und ließ göttliche Energie gegen den Stein fließen.
+
+Für einen Moment geschah nichts.
+
+Dann bebte die Höhle.
+
+Nicht durch Erschütterung allein – sondern als hätte etwas im Inneren des Steins ihr Gebet gehört und darauf reagiert. Die grünen Risse flammten auf. Kalte Luft strömte aus dem Gestein. Der Schatten hinter dem Stein verdichtete sich. Jennina wich zurück.
+
+„Toragorn!“
+
+Aus dem Stein löste sich etwas.
+
+Es war keine feste Gestalt, kein Körper aus Fleisch. Eher eine schattenhafte Manifestation, dunkler Rauch mit Umrissen von Gliedmaßen, Hörnern, einer verzerrten Fratze. Etwas, das Form annehmen wollte und dabei doch immer unfertig blieb. Zwei grün glimmende Punkte öffneten sich dort, wo Augen hätten sein sollen.
+
+Ein Laut erklang. Nicht ganz Stimme. Nicht ganz Kreischen. Etwas dazwischen, das wie eine Erinnerung an Schmerz klang.
+
+Jennina hob instinktiv den Schild.
+
+Toragorn trat nach vorn, das Großschwert in beiden Händen.
+
+„Bleib hinter mir“, sagte er.
+
+„Nein“, entgegnete Jennina atemlos. „Nicht ganz.“
+
+Die Manifestation schnellte vor.
+
+Sie bewegte sich nicht wie ein Tier und nicht wie ein Mensch. Mehr wie ein Riss in der Luft, der auf sie zuschoss. Toragorn schlug mit voller Kraft. Die Klinge fuhr durch den schwarzen Rauch, traf aber weniger Widerstand, als sie sollte. Dennoch wurde die Gestalt zurückgeschleudert, als hätte der Hieb ihr Form und Richtung geraubt.
+
+Jennina spürte, dass Waffen allein hier nicht genügen würden.
+
+„Sie hängt am Stein!“, rief sie. „Solange er besteht, bleibt sie!“
+
+Toragorns Blick blitzte. „Dann breche ich ihn.“
+
+Die Manifestation fuhr erneut vor, diesmal auf Jennina zu. Ein kalter Sog ging von ihr aus. Jennina hob das Amulett und sprach ein Gebet, nicht laut, aber klar, jede Silbe getragen von Entschlossenheit.
+
+Rosafarbenes Licht brach aus ihrem Symbol hervor.
+
+Es traf die Schattenform frontal.
+
+Zum ersten Mal wirkte die Kreatur wirklich zurückgedrängt. Ihr Umriss flackerte, verzerrte sich, und der Laut, den sie ausstieß, wurde schärfer, wütender.
+
+„Jetzt!“, rief Jennina.
+
+Toragorn reagierte sofort.
+
+Mit einem Schritt war er am Stein, drehte das Großschwert und ließ es mit voller Wucht gegen die schwarze Oberfläche krachen.
+
+Ein Klang wie brechender Metallstein hallte durch die Höhle.
+
+Ein Riss zog sich über den Anker.
+
+Grünliches Licht schoss aus der Bruchstelle hervor.
+
+Die Manifestation heulte auf.
+
+Toragorn setzte nach. Nicht zögernd, nicht vorsichtig. Mit der ganzen Kraft seines Körpers. Mit all der Wut, die er seit Jahren in sich trug, auf Dämonen, auf Dunkelheit, auf das Unerklärliche, das sich in sein Leben gefressen hatte.
+
+„Zerbrich!“, stieß er hervor.
+
+Der zweite Schlag traf.
+
+Diesmal barst der Stein.
+
+Nicht langsam. Nicht still. Er zerbrach mit einem scharfen, knallenden Krachen, das durch die gesamte Höhle fuhr. Schwarze Splitter flogen. Die grünen Risse platzten auf wie Wunden, aus denen kaltes Licht entwich. Für einen Herzschlag lang war die ganze Höhle erfüllt von diesem irren Schimmer.
+
+Dann brach alles zusammen.
+
+Die Manifestation riss auseinander wie Rauch im Sturm. Das grünliche Leuchten erlosch nicht sofort, aber es fiel in sich zusammen, wurde schwächer, schwächer, bis nur noch Dunkelheit und das matte Licht ihrer Fackel übrigblieb.
+
+Stille senkte sich über die Höhle.
+
+Eine andere Stille diesmal.
+
+Nicht mehr bedrückend.
+
+Nur leer.
+
+Jennina stand keuchend da, das Amulett noch in der Hand, die Finger zitternd. Toragorn hielt das Großschwert gesenkt und atmete schwer. Schwarze Steinsplitter lagen um seine Stiefel verstreut.
+
+Für einige Momente sagte keiner ein Wort.
+
+Dann blickte Jennina langsam zum zerborstenen Steinrest. „Ist es vorbei?“
+
+Toragorn sah in die Dunkelheit, als traue er dem Frieden nicht. Schließlich nickte er knapp. „Hier unten? Ja.“
+
+Jennina trat vorsichtig näher an die Trümmer heran. Einige Splitter trugen noch seltsame Vertiefungen und krude Runen, die nicht wie die alten Zeichen der Druiden wirkten. Eher rauer. Fremder. Aggressiver.
+
+„Diese Zeichen...“, murmelte sie.
+
+Toragorn kam neben sie. „Kennst du sie?“
+
+Jennina schüttelte langsam den Kopf. „Nicht genau. Aber sie gehören nicht hierher. Nicht zu diesem Ort.“
+
+Toragorn hob ein Stück auf, so groß wie eine Handfläche. „Dann nehmen wir sie mit.“
+
+Jennina sah ihn an. „Um sie zu untersuchen?“
+
+„Und um zu wissen, womit wir es zu tun hatten.“
+
+Sie nickte. Das war vernünftig. Gefährlich vielleicht, aber vernünftig. Also sammelten sie einige der auffälligsten Fragmente ein. Jennina wickelte eines in Stoff, Toragorn verstaute zwei weitere sorgfältig in seinem Gepäck.
+
+Als sie fertig waren, sah Jennina noch einmal auf die verstreuten Knochen der Tiere.
+
+„Wenigstens endet es hier“, sagte sie leise.
+
+Toragorn folgte ihrem Blick. „Für sie zu spät.“
+
+Jennina schluckte. „Ja.“
+
+Sie verließen die Höhle langsamer, als sie gekommen waren. Die Anspannung fiel nicht sofort von ihnen ab. Zu frisch war die Erinnerung an das, was aus dem Stein hervorgebrochen war. Zu deutlich noch die Erkenntnis, dass dieser Ort nicht nur verflucht, sondern gezielt verdorben worden war.
+
+Wieder oben in der Kammer mit den Runensäulen blieben sie stehen.
+
+Die eingesetzten Scheiben glommen noch schwach.
+
+Jennina betrachtete sie nachdenklich. „Wenn dieser Mechanismus den Zugang geöffnet hat, sollten wir ihn nicht aktiv lassen.“
+
+Toragorn nickte. „Falls noch jemand herkommt.“
+
+„Oder falls der Kreis selbst sonst offen bleibt.“
+
+Also nahmen sie die Scheiben wieder heraus. Eine nach der anderen. Mit jeder entfernten Scheibe erlosch ein Teil des Lichts. Die Runen auf den Säulen wurden stumpf. Die Linien im Boden verloren ihr Glimmen. Schließlich lag die Kammer wieder im matten Fackelschein, als hätte sie ihre Stimme erneut verschluckt.
+
+Dann begann der Rückweg.
+
+Den Tunnel hinauf. Durch die erste Kammer. Den Schacht empor.
+
+Als Jennina das letzte Stück aus der Öffnung des verborgenen Eingangs ins Freie kletterte, traf sie der Wald wie ein völlig anderer Ort.
+
+Sie blieb auf den Knien am Rand des Schachts stehen und sah auf.
+
+Licht.
+
+Natürliches, kühles Tageslicht.
+
+Wind.
+
+Und dann – ein Vogelruf.
+
+Leise erst. Dann ein zweiter. Etwas flatterte zwischen Ästen. Weiter hinten knackte es im Unterholz, aber diesmal klang es nicht lauernd, sondern lebendig. Ganz allmählich schien der Wald seinen Atem wiederzufinden.
+
+Toragorn kam nach oben und zog das Seil hinter sich her.
+
+Jennina richtete sich langsam auf. Sie drehte sich einmal um die eigene Achse und spürte es deutlich: Die bedrückende Schwere war fort. Nicht jede Spur von Gefahr, nicht jede Unsicherheit. Aber jener falsche Ton, der über allem gelegen hatte, war verschwunden.
+
+„Es ist weg“, sagte sie leise.
+
+Toragorn trat neben sie und ließ den Blick über die Bäume schweifen. „Ja.“
+
+Jennina schloss für einen Moment die Augen und atmete tief ein. Feuchte Erde. Harz. Moos. Wald. Einfach Wald.
+
+Als sie die Augen wieder öffnete, fiel ihr Blick auf den Runenkreis. Die Steine wirkten noch immer alt, noch immer verwittert, doch sie hatten etwas von ihrer Verletztheit verloren. Nicht geheilt, dachte sie. Aber nicht länger aktiv entweiht.
+
+Sie wandte sich zu Toragorn.
+
+Er stand schweigend da, den Blick auf die alten Steine gerichtet, die Hand nahe an dem Verband seines Oberarms. Seine Haltung war dieselbe wie zuvor – wachsam, aufrecht, kontrolliert – und doch wirkte etwas an ihm anders. Vielleicht, weil sie nun gemeinsam etwas gesehen hatten, das keiner von ihnen mehr als bloßes Gerücht abtun konnte.
+
+Jennina zögerte kurz. Dann sagte sie: „Ohne dich hätte ich das nicht geschafft.“
+
+Toragorn sah zu ihr hinüber. „Allein hätte ich den Zugang vielleicht gefunden“, sagte er. „Aber nicht verstanden.“
+
+Jennina senkte kurz den Blick. Das Lob traf sie unerwartet. „Ich...“
+
+„Und ohne dein Licht dort unten“, fügte er hinzu, „wäre das anders ausgegangen.“
+
+Sie hob langsam den Blick wieder. Für einen Moment war da nichts als ehrliche Anerkennung zwischen ihnen. Nüchtern. Nicht ausgeschmückt. Gerade deshalb glaubwürdig.
+
+Jennina nickte leicht. „Dann waren wir wohl beide nötig.“
+
+Ein kaum sichtbarer Zug huschte um Toragorns Mund. „Sieht so aus.“
+
+Sie verschlossen den Schacht wieder so gut es ging. Die Steinplatte wurde zurückgeschoben, der schiefe Monolith mit aller Mühe wieder so gesetzt, dass der Zugang zumindest nicht offen dalag. Perfekt war die Tarnung nicht mehr. Aber genug, dass nicht jeder Wanderer zufällig darüber stolpern würde.
+
+Als die Arbeit getan war, standen sie noch einmal schweigend nebeneinander.
+
+Unter ihnen lagen die geborstenen Reste des Ankersteins. In ihren Taschen ruhten Fragmente davon. Vor ihnen lag ein Wald, der langsam wieder zu sich kam.
+
+Doch mit der Erleichterung kam auch die Erkenntnis.
+
+Das hier war zu groß für einen Zufall gewesen.
+
+Jemand hatte diesen Ort benutzt. Jemand hatte den Runenkreis von Aelthir geöffnet, verdorben oder zumindest mit etwas verbunden, das nicht hierhergehörte. Die Wölfe waren nur die ersten sichtbaren Folgen gewesen. Der Stein unter der Erde war kein natürliches Übel, sondern ein gesetzter Fremdkörper.
+
+Jennina dachte an Arvions Brief.
+
+Toragorn dachte an seinen Auftrag.
+
+Und beide wussten in diesem stillen Moment dasselbe:
+
+Das hier war nicht das Ende einer Geschichte.
+
+Es war ihr Anfang.
+
+Ein Windstoß strich durch die Bäume. Dieses Mal trug er das Rascheln von Blättern, das ferne Klopfen eines Spechts und irgendwo hoch über ihnen den Ruf eines Vogels mit sich.
+
+Jennina legte unwillkürlich die Finger an ihr Amulett.
+
+„Arvion hatte recht“, sagte sie leise.
+
+Toragorn sah weiter in den Wald hinaus. „Ja.“
+
+Sie schluckte. „Und wenn es hier so etwas gibt... dann vielleicht auch anderswo.“
+
+„Wahrscheinlich.“
+
+Sie sah zu ihm hinüber. „Was jetzt?“
+
+Toragorn antwortete nicht sofort. Sein Blick glitt über den Kreis, über die Bäume, über den Weg, der zurück in Richtung Zivilisation führte.
+
+„Jetzt“, sagte er schließlich, „bringen wir das hier ans Licht.“
+
+Jennina nickte langsam.
+
+Dann wandten sie sich vom Runenkreis ab.
+
+Nicht als Fremde, die zufällig denselben Weg genommen hatten. Noch nicht ganz als Freunde. Aber als zwei Menschen, die unter uralten Steinen gemeinsam in die Dunkelheit gestiegen waren, dort etwas Falsches gesehen und es gemeinsam zerschlagen hatten.
+
+Hinter ihnen stand Aelthir schweigend im Wald.
+
+Vor ihnen begann der Weg, auf dem aus einer Begegnung ein Bündnis und aus einem Auftrag ein Abenteuer werden sollte.
+
+Und tief unter der Erde, wo der schwarze Stein zerborsten war, blieb nur noch Staub, kalter Fels und die Erinnerung daran, dass selbst vergessene Orte nicht vergessen bleiben, wenn die falschen Kräfte sie berühren.
+
+So endete ihr erstes gemeinsames Abenteuer am Runenkreis von Aelthir.
+
+Mit Blut an den Waffen.
+Mit Splittern dunklen Gesteins im Gepäck.
+Mit Fragen, die größer waren als zuvor.
+Und mit dem ersten, stillen Vertrauen zwischen Jennina und Toragorn.
+
+Denn manches beginnt nicht mit einem Schwur.
+
+Manches beginnt damit, dass zwei Menschen in die Finsternis hinabsteigen –
+und gemeinsam wieder ans Licht zurückkehren.
 
 
 ---------------------------------------------------
