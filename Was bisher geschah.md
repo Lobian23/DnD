@@ -717,293 +717,340 @@ Und während die kühle Luft über Eisenfurt sank und sich die Stadt langsam in 
 # Kapitel 3 - Die Graue Wacht
 (gespielt am 19. März 2026)
 
-Der Abend senkte sich über Eisenfurt, als hätte die Stadt selbst beschlossen, das, was am Tag sichtbar geworden war, nicht weiter im Licht zu tragen. Die Geräusche wurden leiser, die Wege leerer, und zwischen den Häusern lag jene trügerische Ruhe, die nicht aus Frieden entstand, sondern aus Gewohnheit. Menschen zogen sich zurück, Türen schlossen sich, Gespräche verstummten – und doch blieb etwas zurück, ein kaum greifbares Zittern in der Luft, das weder Jennina noch Toragorn zu benennen vermochten.
+Der Abend senkte sich über Eisenfurt nicht wie eine plötzliche Dunkelheit, sondern wie etwas Langsames, Unvermeidliches, als würde die Stadt selbst Stück für Stück das Tageslicht von sich abstreifen, um all das, was am Tage zu sichtbar geworden war, wieder in tiefere Schatten zurückzusenken. Die Dächer, Mauern und schmalen Gassen der Grenzstadt fingen das letzte fahle Leuchten des Himmels auf, hielten es für kurze Augenblicke in Fensterscheiben und auf nassem Pflaster fest, ehe es endgültig verblasste und nur noch das flackernde Licht von Laternen, Schankstuben und Schmiedefeuern übrigblieb. Menschen schlossen Läden. Händler deckten Karren ab. Türen fielen ins Schloss. Und doch lag in dieser gewöhnlichen Ordnung etwas, das weder Jennina noch Toragorn noch als klaren Gedanken hätten aussprechen können, etwas Unruhiges, fast Pulsierendes, als läge unter der Oberfläche des Gewohnten ein anderes Eisenfurt, eines, das auf den richtigen Augenblick wartete, um sich zu zeigen.
 
-Sie gingen schweigend nebeneinander her.
+Sie gingen nebeneinander durch die Straßen, schweigend, und es war das Schweigen zweier Menschen, die einander noch nicht lange kannten und dennoch längst aufgehört hatten, sich gegenseitig erklären zu müssen, warum sie nichts sagten. Es war zu viel geschehen seit dem Morgen am Runenkreis; zu viele Antworten hatten sich in neue Fragen verwandelt, zu viele Widersprüche waren in zu kurzer Zeit ans Licht gekommen. Der falsche Befehl. Die Berichte der Jäger. Brenns kalte Ruhe. Hauptmann Halvars offenes Erstaunen. Und darunter, noch gefährlicher als all diese Dinge, die unausweichliche Erkenntnis, dass Toragorns Mal auf den Anker reagiert hatte und damit vielleicht auf etwas antwortete, das älter und näher war, als sie begreifen wollten.
 
-Nicht, weil sie nichts zu sagen hatten, sondern weil die Gedanken zu viel Raum einnahmen, um sie sofort in Worte zu fassen. Die Begegnung mit Brenn hatte mehr Fragen aufgeworfen, als sie beantwortet hatte, und selbst das, was sie wussten, fühlte sich nicht vollständig an, sondern wie ein Fragment eines größeren Bildes, das sich nur langsam zusammensetzte.
+Jennina ging mit gesenktem Blick, nicht aus Unsicherheit über den Weg, sondern weil sie dachte, und wenn sie dachte, wurde ihr Blick oft still, beinahe abwesend, als würde sie den Dingen nicht mit den Augen, sondern mit etwas Tieferem folgen. Die Stadt war ihr fremd. Nicht einfach unbekannt, sondern auf eine Weise fremd, die in ihr eine alte Scheu weckte. Sie war zwischen Bäumen aufgewachsen, nicht zwischen Mauern, Holzbuden und Menschen, die ihre Gedanken nicht verbergen konnten oder wollten. In Silvanhain hatte selbst Schweigen eine andere Beschaffenheit gehabt. Hier in Eisenfurt trugen Geräusche Ecken und Kanten. Stimmen hallten. Gelächter konnte wie Hohn klingen, auch wenn es keiner war. Schritte waren nicht bloß Schritte, sondern Hinweise darauf, wer nah genug war, um zuzuhören.
 
-Das Licht der Laternen begann sich in den feuchten Steinen der Straßen zu spiegeln, als sie schließlich das Gasthaus erreichten. Es war kein besonderer Ort – ein einfacher Bau, wie es ihn in jeder Grenzstadt gab, mit abgenutzten Tischen, warmem Licht und dem Geruch von Essen und altem Holz. Und doch wirkte er in diesem Moment wie eine Grenze zwischen zwei Welten: draußen die Ungewissheit, drinnen ein flüchtiger Anschein von Sicherheit.
+Toragorn bemerkte, dass sie sich näher an ihn hielt, ohne es bewusst zu tun. Er sagte nichts dazu. Aber wie schon im Wald passte er seinen Schritt so an, dass zwischen ihnen kein Abstand blieb, den jemand leicht ausnutzen konnte.
 
-Jennina blieb kurz in der Tür stehen.
+Als sie schließlich das Gasthaus erreichten, das ihnen für diese Nacht Unterkunft bieten sollte, wirkte es im ersten Augenblick wie das, was ein Gasthaus sein sollte: warm, laut, menschlich. Licht floss durch die Fenster auf die Straße. Stimmen drangen nach draußen, begleitet vom dumpfen Klang schwerer Krüge auf Holz und dem Schaben von Stühlen. Der Geruch von gebratenem Fleisch, Gewürzen, Rauch und Bier hing in der Luft. Für jeden anderen hätte es beruhigend wirken können. Für Jennina war es zunächst vor allem viel.
 
-Der Raum war gefüllt mit Stimmen, mit Bewegung, mit Leben – und dennoch fühlte sie sich fremd darin. Nicht aus Angst, sondern aus Vorsicht. Sie war im Wald aufgewachsen, zwischen Bäumen, nicht zwischen Menschen, die ihre Blicke nicht verbargen. Instinktiv suchte sie die Nähe zu Toragorn, ohne es bewusst zu entscheiden.
+Sie blieb in der Tür für den Bruchteil eines Moments stehen.
 
-Er bemerkte es.
+Toragorn merkte es sofort.
 
-Und ohne etwas zu sagen, trat er einen halben Schritt näher an sie heran.
+Der Raum war gut gefüllt, aber nicht überfüllt. Reisende saßen an Tischen, Handwerker an der Theke, zwei Soldaten würfelten in einer Ecke, ein alter Mann schlief halb über seinem Becher, während der Wirt mit routinierter Beweglichkeit zwischen Fässern, Tischen und Gästen hindurcharbeitete. Alles wirkte so gewöhnlich, dass Jennina für einen Augenblick fast wünschte, ihre Unruhe müsse bloß aus ihr selbst kommen. Doch das war nicht der Fall. Es war nicht laut genug, um ihre Vorsicht allein zu erklären. Es war etwas anderes.
 
-Sie setzten sich an einen Tisch, nicht im Zentrum des Raumes, sondern leicht am Rand, von wo aus man sowohl die Tür als auch den größten Teil der Gäste im Blick behalten konnte. Es war eine Gewohnheit Toragorns, und Jennina spürte, dass sie sich daran orientierte, ohne es zu hinterfragen.
+Instinktiv suchte sie Toragorns Nähe.
 
-Für eine Weile geschah nichts.
+Er trat ohne ein Wort einen halben Schritt näher an sie heran.
 
-Und gerade darin lag die Spannung.
+Zusammen gingen sie zu einem Tisch am Rand des Raumes, nicht zu weit von der Tür entfernt, nicht zu sehr im Mittelpunkt. Es war kein Zufall, dass Toragorn genau diesen Platz wählte. Von dort aus hatte er den Eingang im Blick, die meisten Gäste ebenso, und die Wand im Rücken. Jennina bemerkte es und fühlte sich augenblicklich sicherer, gerade weil es so selbstverständlich geschah, als hätte er nie über etwas anderes nachgedacht.
 
-Dann öffnete sich die Tür.
+Eine Weile saßen sie dort und sagten nichts. Toragorn legte die Waffen nicht ab, sondern nur so, dass sie nicht offen drohten. Jennina hielt die Hände um ihren Becher, mehr um eine Beschäftigung zu haben als aus Durst. Das Feuer im Kamin warf warmes Licht in den Raum und ließ ihr Amulett kurz aufschimmern, diesen kleinen Einhornkopf, der ihr schon seit Jahren mehr Trost schenkte als viele Worte von Menschen. Toragorns Verband war im flackernden Licht sichtbar, und Jennina bemerkte, dass sein Blick immer wieder kurz an der Tür hängenblieb.
 
-Zwei Männer traten ein.
+Dann ging sie auf.
 
-Nicht auffällig.
+Die Tür selbst.
 
-Nicht laut.
+Ein kalter Luftzug strich herein, und mit ihm traten zwei Männer ein.
 
-Und doch…
+Sie waren nicht auffällig gekleidet. Nicht wie Räuber, nicht wie Adlige, nicht wie Söldner, die gesehen werden wollten. Ihre Kleidung war zweckmäßig, staubig von der Reise, ihre Stiefel vom Straßenschmutz gezeichnet. Und doch veränderte sich in dem Augenblick, in dem sie den Raum betraten, etwas. Nicht für alle Anwesenden. Die meisten Gäste bemerkten nur zwei weitere Reisende. Jennina jedoch fühlte einen kaum erklärbaren Riss im Gleichgewicht des Raumes, so schwach, dass sie ihn kaum gegen ihre eigene Nervosität abgrenzen konnte — und doch war er da.
 
-stimmte etwas nicht.
+Einer der Männer hob den Blick.
 
-Jennina bemerkte es zuerst.
-
-Nicht bewusst.
-
-Nicht als klaren Gedanken.
-
-Sondern als Gefühl.
-
-Ein leichtes Ziehen.
-
-Ein kaum wahrnehmbarer Bruch in der Harmonie des Raumes.
-
-Ihre Augen wanderten zu den Männern – und in genau diesem Moment hob einer von ihnen den Blick.
+Er sah nicht in den Raum.
 
 Er sah direkt zu Toragorn.
 
-Zu lange.
+Nicht lange genug, um Aufsehen zu erregen.
 
-Zu gezielt.
+Aber zu lange für Zufall.
 
-Jenninas Finger schlossen sich leicht um den Rand des Tisches.
+Jenninas Finger schlossen sich leicht um die Kante des Tisches. Ohne den Blick offen zu heben, sagte sie ganz leise: „Der hat dich angesehen.“
 
-Leise, fast nur ein Hauch, sagte sie:
-„Der hat dich angesehen.“
+Toragorn hatte den Blick bereits bemerkt. „Ich hab’s gesehen.“
 
-Toragorn hatte den Blick längst bemerkt.
+Die beiden Männer bewegten sich weiter, als wäre nichts geschehen. Einer sprach kurz mit dem Wirt, der andere ließ den Blick noch einmal durch den Raum gleiten. Nicht neugierig. Prüfend. Jennina spürte, wie ihre Anspannung sich verdichtete. Sie versuchte, sich selbst zur Ruhe zu zwingen. Vielleicht war es Einbildung. Vielleicht war es bloß der Abend, der falsche Tag, die falsche Menge an Gedanken. Doch als der Blick des Mannes ein zweites Mal bei Toragorn hängenblieb, wusste sie, dass es das nicht war.
 
-„Ich hab’s gesehen.“
+„Ich glaube nicht, dass das Zufall war“, sagte sie.
 
-Die Männer bewegten sich weiter in den Raum hinein, setzten sich, sprachen mit dem Wirt – alles wirkte normal.
+Toragorn stellte den Becher ab und stand auf.
 
-Zu normal.
-
-Jennina senkte den Blick kurz.
-
-Dann, leise:
-„Ich glaube nicht, dass das Zufall war.“
-
-Toragorn antwortete nicht sofort.
-
-Dann stand er auf.
+Nicht abrupt. Nicht provokativ. Einfach entschieden.
 
 „Dann finden wir es heraus.“
 
-Draußen war die Luft kühler.
+Jennina sah kurz zu ihm auf. Für einen Herzschlag hätte sie lieber den Schutz der Taverne behalten. Nicht weil sie feige war, sondern weil sie wusste, dass Dunkelheit draußen andere Arten von Wahrheiten hervorholen konnte als ein Gastraum voller Zeugen. Doch sie nickte und erhob sich ebenfalls.
 
-Die Geräusche der Stadt gedämpft.
-
-Und die Dunkelheit dichter.
+Als sie hinaustraten, war die Luft kühler, und die Geräusche des Gasthauses fielen hinter ihnen wie eine Tür ins Wasser. Die Straße war leerer geworden, das Licht unregelmäßiger, die Schatten tiefer. Toragorn ging voran, nicht hastig, aber bestimmt, und bog schließlich in eine schmalere Gasse ein, wo keine offenen Fenster mehr lagen und das Licht einer einzelnen Laterne nur gerade genug war, um Konturen statt Gesichter erkennen zu lassen.
 
 Die Männer folgten.
 
-Nicht hastig.
+Kein Zweifel mehr.
 
-Nicht offensichtlich.
+Jennina blieb dicht hinter Toragorn. Sie war nicht die Art Mensch, die in einer solchen Situation instinktiv nach vorne trat, Forderungen stellte oder Fremde herausforderte. Sie suchte Deckung, Beobachtung, den halben Schritt hinter demjenigen, der standhielt. Und Toragorn war genau das: jemand, hinter dem man stehen konnte, ohne sich deshalb klein zu fühlen.
 
-Aber eindeutig.
+Die vier blieben stehen.
 
-In einer schmalen Gasse blieben beide Seiten stehen.
+Stille.
 
-Der Abstand zwischen ihnen war klein genug, um jede Bewegung zu sehen.
+Ein Atemzug.
 
-Groß genug, um einen Kampf beginnen zu lassen.
+Zwei.
 
-Die Worte, die fielen, waren knapp.
+Dann sagte Toragorn mit fester, kontrollierter Stimme: „Was wollt ihr? Sucht ihr Ärger? Den könnt ihr haben.“ Er machte eine knappe Kopfbewegung zur offenen Straße hin. „Aber draußen.“
 
-Zielgerichtet.
+Der vordere der beiden Männer lächelte leicht.
 
-Und von Anfang an lag darin keine echte Verhandlung.
+Nicht spöttisch.
 
-Es war Jennina, die als Erste verstand, dass es nicht um einen Zufall ging.
+Nicht freundlich.
 
-Nicht um einen Streit.
+Eher, als hätte er eine Erwartung bestätigt gesehen.
 
-Sondern um Wissen.
+„Immer noch direkt“, sagte er ruhig.
 
-Sie wussten.
+Im selben Augenblick zog ein kaltes Pulsieren durch Toragorns Arm. Nicht lang, nicht wie Schmerz, eher wie eine Antwort. Das Mal unter dem Verband regte sich, als hätte es den Mann erkannt oder etwas in ihm.
 
-Vom Anker.
+Jennina bemerkte sofort, wie Toragorns Schulter sich spannte.
 
-Der Kampf begann schnell.
+Der Fremde hob leicht die Hände. „Wir suchen keinen Ärger“, sagte er. Dann, nach einer kurzen Pause: „Zumindest nicht hier drin.“
 
-Zu schnell für lange Überlegungen.
+Er trat noch einen Schritt in die Dunkelheit, nun deutlicher zu sehen, und sein Begleiter blieb etwas zurück, unruhiger, nervöser, als würde ihm diese Begegnung weniger gefallen.
 
-Toragorn bewegte sich mit der Entschlossenheit eines Mannes, der gelernt hatte, Situationen sofort zu entscheiden, bevor sie außer Kontrolle gerieten. Sein Angriff traf hart, präzise, ohne Zögern, und einer der Männer ging bereits zu Boden, noch bevor sich der zweite vollständig auf das Geschehen einstellen konnte.
+Toragorn hob die Hand unauffällig an seine Waffe. Jennina spürte die drohende Bewegung noch bevor sie wirklich begann. In ihrem Inneren sagte etwas, dass diese Männer nicht zufällig hier waren. Nicht wegen eines Streits. Nicht wegen Diebstahls. Nicht einmal wegen Toragorn als Soldat. Es war etwas anderes.
 
-Doch dieser war anders.
+Dann sprach der Mann die Worte, die den letzten Rest von Unklarheit aus der Situation rissen.
 
-Seine Bewegungen waren nicht die eines gewöhnlichen Kämpfers.
+„Du hast ihn zerstört.“
 
-Sie waren… gelenkt.
+Jennina spürte, wie sich ihr Magen zusammenzog.
 
-Als würde etwas durch ihn wirken, nicht nur er selbst.
+Toragorn blieb regungslos. „Wovon redest du?“
 
-Jennina spürte es.
+„Vom Anker“, sagte der Mann. „Wir haben es gespürt, als er zerbrochen ist.“
 
-Noch bevor sie es verstand.
+Jennina flüsterte, ohne den Blick abzuwenden: „Er weiß es.“
 
-Ein Flackern.
+Der zweite Mann bewegte sich nun ebenfalls. Seine Hand glitt nicht nur zur Waffe. Etwas in seiner Haltung, in der Art, wie er den Kopf hielt, wirkte falsch. Nicht offen dämonisch, nicht so wie die Manifestation in der Höhle, aber doch… verschoben. Jennina konnte es nicht sofort benennen. Nur fühlen.
 
-Ein Schatten.
+Toragorn wartete nicht länger.
 
-Etwas, das sich nicht in Worte fassen ließ, aber dennoch eindeutig war.
+Er griff an.
 
-Als der Mann begann, die Hände zu heben, als würde er einen Zauber wirken, reagierte sie instinktiv. Sie trat einen Schritt vor, hob ihr heiliges Symbol, und in diesem Moment war es nicht nur ihr Wille, der wirkte, sondern etwas, das durch sie hindurchging – ruhig, klar, wie ein Licht, das sich nicht aufdrängt, sondern einfach da ist.
+Die Bewegung war schnell, brutal und doch kontrolliert. Kein wütender Ausbruch, sondern der entschlossene Schlag eines Soldaten, der eine Lage in dem Augenblick beenden will, in dem sie kippt. Sein Großschwert fuhr durch die Dunkelheit, und der erste Mann, der gesprochen hatte, wurde hart getroffen, taumelte zurück und ging zu Boden.
 
-Der Zauber brach ab.
+Der zweite reagierte sofort.
 
-Als hätte man ihm die Grundlage entzogen.
+Seine Hand hob sich. Die Finger formten etwas. Worte, leise und undeutlich, begannen über seine Lippen zu gleiten.
 
-Toragorn nutzte den Moment.
+Jennina spürte die Veränderung in der Luft.
 
-Ein Schritt.
+Nicht wie bei einem Gebet.
 
-Eine Bewegung.
+Nicht wie bei göttlicher Macht.
 
-Und plötzlich lag die Spitze seines Schwertes an der Kehle des Mannes.
+Das hier war kein Ruf nach Schutz oder Ordnung.
 
-So nah, dass selbst ein Atemzug zu viel gewesen wäre.
+Es war ein Griff in etwas, das nicht gegriffen werden sollte.
 
-Der Kampf war vorbei.
+„Toragorn!“
 
-Nicht durch Gewalt.
+Doch sie wusste im selben Augenblick, dass bloße Warnung nicht reichen würde.
 
-Sondern durch Kontrolle.
+Bevor der Mann den Zauber vollenden konnte, trat Jennina vor, hob ihr heiliges Symbol und sprach kein vorbereitetes Gebet, keine lange Formel, sondern etwas Instinktives, Drängendes, fast wie einen Wunsch, den sie durch Mielikki in die Welt warf: dass dieses Falsche nicht Form annehmen möge.
 
-„Ich will dich nicht töten…“, sagte Toragorn ruhig.
-„Ich will Antworten.“
+Ein leiser Schimmer ging von ihr aus, so fein, dass er eher gespürt als gesehen wurde. Rosafarbene, sanfte Helligkeit strich durch die Luft wie Morgendunst über Wasser.
 
-Der Mann erstarrte.
+Und etwas brach.
 
-Und dann… gab er nach.
+Der Fluss des fremden Zaubers riss ab. Der Mann stockte sichtbar, als sei ihm der Boden unter einer inneren Bewegung entzogen worden. Überraschung schoss über sein Gesicht. Nicht nur Ärger. Wirkliches Erstaunen.
 
-Was folgte, war kein Gespräch im üblichen Sinne.
+Toragorn nutzte den Augenblick sofort.
 
-Es war ein Stück Wahrheit, das unter Druck ans Licht kam.
+Ein Schritt, ein Zug der Klinge — und dann war die Schwertspitze an der Kehle des Mannes.
 
-Nicht vollständig.
+So nah, dass der geringste Vorstoß genügt hätte.
 
-Nicht klar.
+Der Kampf war in demselben Augenblick vorbei, in dem er richtig begonnen hatte.
 
-Aber genug.
+Der erste Mann lag bewusstlos am Boden. Der zweite stand still, den Atem flach, das Schwert Toragorns als glänzende, tödliche Linie zwischen Leben und Fehler.
 
-Er sprach von einer Gemeinschaft.
+„Ich will dich nicht töten“, sagte Toragorn ruhig. Seine Stimme war gefährlicher in dieser Ruhe als jeder Schrei. „Ich will Antworten. Ohne Umwege.“
 
-Von der Grauen Wacht.
+Der Mann hob langsam die Hände. „Warte“, sagte er. „Wir kämpfen nicht weiter.“
 
-Von Menschen, die suchten.
+Jennina trat näher, jetzt nicht mehr nur geschützt hinter Toragorn, sondern mit gespannter Aufmerksamkeit neben ihm. Ihr Blick ruhte auf dem Mann, und sie wusste plötzlich mit jener seltsamen Klarheit, die manchmal aus einer Mischung aus Glaube, Erfahrung und Intuition entsteht, dass er noch nicht alles gesagt hatte. Nicht aus einfacher Feigheit. Sondern weil er abwog, was er sagen durfte.
 
-Nicht nach Macht.
+„Du weißt mehr“, sagte sie leise. „Das kann ich spüren.“
 
-Sondern nach Verständnis.
+Toragorn drückte die Schwertspitze einen Hauch näher. Ein feiner Blutstropfen trat an der Kehle des Mannes hervor. Nicht viel. Gerade genug.
 
-Jennina hörte zu, stellte Fragen, leise, aber bestimmt. Ihre Art war nicht die der Anklage, sondern die des Verstehens – und gerade deshalb öffnete sich der Mann mehr, als er es vielleicht gewollt hätte.
+„Dann rede.“
 
-Die Worte, die er sprach, zeichneten ein Bild, das größer war als alles, was sie bisher gesehen hatten.
+Der Mann schluckte vorsichtig, ohne den Hals zu bewegen.
 
-Anker.
+Dann begann er.
 
-Mehr als einer.
+Es kam nicht alles sofort. Eher stückweise, wie etwas, das unter Druck die Form verlor und erst dadurch sichtbar wurde. Er sprach von einer Gemeinschaft. Von Menschen, die nach Spuren suchten, wo andere nur Gerüchte sahen. Von einer Aufgabe, die weder Ruhm noch Dank brachte und die gerade deshalb im Verborgenen blieb.
 
-Verteilt.
+„Wir gehören zur Grauen Wacht“, sagte er schließlich.
 
-Verbunden.
+Jennina runzelte die Stirn. Der Name sagte ihr nichts.
 
-Und dann:
+„Wir suchen Anker“, fuhr er fort. „Und Menschen wie ihn.“
 
-die Berührten.
+Sein Blick glitt kurz zu Toragorns Arm.
 
-Menschen.
+Jennina stellte Fragen, und je länger sie sprach, desto deutlicher zeigte sich, dass ihre Schüchternheit nicht bedeutete, keine Härte zu besitzen. Sie sprach leiser als Toragorn, weniger fordernd im Ton, aber oft viel präziser. Wo Toragorn Druck machte, schnitt Jennina die wichtigen Stellen frei. Warum suchte diese Wacht Anker? Wer erschuf sie? Wieviele gab es? Und was meinte er mit „Menschen wie ihn“?
 
-Wie Toragorn.
+Die Antworten waren unvollständig, aber sie öffneten einen Abgrund.
 
-Die Bedeutung dieser Erkenntnis lag nicht nur in dem, was sie sagte, sondern in dem, was sie auslöste. Zum ersten Mal wurde das, was Toragorn trug, nicht nur als persönliche Last sichtbar, sondern als Teil eines größeren Musters. Etwas, das andere kannten. Etwas, das gesucht wurde.
+Anker, sagte der Mann, seien keine Zufälle, keine spontanen Auswüchse dunkler Magie. Sie würden gesetzt. Verankert. Gebunden — an Orte, an Ereignisse, manchmal sogar an Menschen. Manche blieben verborgen, manche wurden aktiv, und wenn sie aktiv wurden, verzerrten sie die Welt um sich herum. Tiere. Pflanzen. Gedanken. Wege. Manches nur leicht. Anderes tödlich.
 
-Jennina fragte nach Heilung.
+„Der im Wald war instabil“, sagte er. „Kurz davor, sich zu öffnen.“
 
-Nach Rettung.
+Jennina fragte: „Zu öffnen… wofür?“
 
-Nach einem Weg zurück.
+Der Mann zögerte.
 
-Doch die Antworten waren vage.
+„Für mehr.“
 
-Unvollständig.
+Es war keine Antwort, die beruhigte.
 
-Und nicht beruhigend.
+Noch schlimmer war, was er über die Berührten sagte.
 
-Nicht alle konnten gerettet werden.
+Menschen wie Toragorn, erklärte er, trügen ein Zeichen, eine Verbindung, eine Spur von etwas, das die Anker erkennen oder beantworten konnten. Nicht jeder Berührte werde sofort verdorben. Nicht jeder verliere sich. Manche lebten jahrelang mit einem Mal, mit einer Veränderung, mit Reaktionen, die niemand erklären konnte. Aber niemand konnte garantieren, dass das so blieb.
 
-Nicht alle wollten es.
+Jennina hörte dies alles und sah in demselben Augenblick Toragorn mit anderen Augen an, nicht weil er für sie fremder geworden wäre, sondern weil etwas an seinem Leid plötzlich einen Namen bekam — oder wenigstens eine Kategorie. Er war nicht nur zufällig verwundet. Er war Teil eines Musters.
 
-Und manche…
+„Kann man es heilen?“ fragte sie.
 
-wurden zu etwas anderem.
+Der Mann schwieg lange.
 
-Die Nacht lag schwer über ihnen, als das Gespräch endete. Doch in dieser Schwere lag keine unmittelbare Bedrohung mehr, sondern eine neue Form von Klarheit. Sie hatten nicht alles erfahren. Aber genug, um zu verstehen, dass ihr Weg sich nicht mehr so einfach trennen ließ.
+Dann schüttelte er den Kopf.
 
-Die Welt, in der sie sich bewegten, war größer geworden.
+„Nie gesehen.“
 
-Dunkler.
+Die Kälte dieser Antwort war nicht in ihrer Grausamkeit, sondern in ihrer Nüchternheit.
 
-Und persönlicher.
+Jennina gab sich damit nicht zufrieden. Sie fragte weiter. Ob man es aufhalten könne. Ob man Anker zerstören müsse. Warum die Graue Wacht Berührte beobachtete, statt einfach alle Anker zu vernichten.
 
-Als sie schließlich zurück zum Gasthaus gingen, war es Jennina, die den ersten Schritt machte – nicht physisch, sondern in dem, was sie aussprach.
+Die Antworten wurden nicht tröstlicher.
 
-Dass sie ihm vertraute.
+Anker könne man nicht blind zerstören. Manche seien an Orte gebunden, die bei falschem Vorgehen weiter aufgerissen würden. Manche an Menschen. Manche kurz vor dem Bruch, andere stabiler. Man müsse verstehen, womit man es zu tun habe. Wissen, wann man eingreife. Manchmal reiche Kraft. Manchmal brauche es ein Ritual. Manchmal beides. Und manchmal, sagte der Mann, sei es bereits zu spät.
 
-Nicht blind.
+Jennina fragte, was aus den Berührten werde.
 
-Aber bewusst.
+„Wenn sie die Kontrolle behalten, helfen wir ihnen“, sagte er.
+
+„Und wenn nicht?“ fragte sie.
+
+Der Mann sah sie an.
+
+„Dann beenden wir es.“
+
+Stille.
+
+Toragorn sagte nichts. Aber die Spannung in ihm veränderte sich. Nicht als würde er gleich zuschlagen — eher als hätte sich etwas in seinem Inneren aufgerichtet.
+
+Jennina fragte weiter, obwohl jede Antwort schlimmer war als die vorige. Ob alle Berührten überwacht würden. Ob man sie zu töten gedenke. Ob die Graue Wacht richte, wer leben dürfe.
+
+„Wir entscheiden nicht, wer lebt“, sagte der Mann. „Die Berührten entscheiden das mit dem, was sie tun.“
+
+Jennina war nicht überzeugt. Aber sie begriff, dass in dieser Logik ein bitterer Ernst lag.
+
+Dann lenkte sich das Gespräch auf die Stadt.
+
+Jennina fragte nach Eisenfurt, nach dem, was die Graue Wacht hier gespürt habe.
+
+Die Antwort traf härter, als jeder von ihnen erwartet hatte.
+
+Es war nicht nur ein einzelner Punkt. Nicht bloß ein weiterer Anker an einem verborgenen Ort. Was immer in Eisenfurt wirkte, war über die Stadt verteilt wie ein schwaches Netz, nicht stark genug, um sofort zu erkennen zu sein, aber überall spürbar für diejenigen, die wussten, worauf sie achten mussten. In der Nähe der Mauern. Unter alten Bereichen. Vielleicht sogar unter der Garnison. Man habe es nicht genau lokalisieren können. Aber es sei da.
+
+Jennina fühlte, wie sich ihr Blick unwillkürlich in Richtung Garnison hob, obwohl Mauern und Dächer den Blick längst versperrten.
+
+Toragorn stellte die nächste Frage mit jener Härte, die bei ihm nicht laut werden musste: ob es in Eisenfurt andere Verdächtige gebe. Andere Berührte.
+
+Der Mann nannte zwei Spuren.
+
+Einen Mann aus der Garnison, mit Zugang zu Berichten, der zu oft an den richtigen Orten zur richtigen Zeit gewesen sei.
+
+Und eine Frau. Keine Soldatin. Eine Heilerin. Beliebt, unauffällig, aber in der Nähe mehrerer Orte gesehen, an denen später Störungen bemerkt wurden.
+
+Jennina schwieg. Toragorn auch. Zwischen ihnen brauchte es keine Erklärung, dass der erste Verdacht sofort auf Brenn fiel.
+
+Am Ende des langen Verhörs steckte Toragorn das Schwert weg.
+
+Nicht aus Vertrauen.
+
+Sondern aus Entscheidung.
+
+Er machte unmissverständlich klar, dass weder er noch Jennina Freunde der Grauen Wacht seien — aber auch keine Feinde, solange diese sie nicht beobachtete, beschattete oder zu Werkzeugen machen wollte. Unterstützung bei der Reinigung von Ankern, ja. Blindes Folgen, nein.
+
+Jennina fügte hinzu, leiser, aber ebenso bestimmt, dass die Graue Wacht wissen solle, mit wem sie es zu tun habe. Mit Jennina. Mit Toragorn. Und dass sie Informationen wollten. Jede Spur. Jeden noch so kleinen Hinweis.
+
+Der Mann nickte. Nicht demütig. Nicht überlegen. Eher, als erkenne er eine Entscheidung an, deren Gewicht er verstand.
+
+Als die beiden Fremden schließlich verschwanden und die Gasse wieder still wurde, blieb nur noch der Bewusstlose am Boden als Beweis dafür zurück, dass der Abend nicht bloß ein weiteres düsteres Gespräch gewesen war.
+
+Dann kam etwas anderes.
+
+Kein weiterer Feind. Keine neue Enthüllung.
+
+Sondern Stille.
+
+Jennina stand einen Moment lang da, die Schultern noch angespannt, den Blick in die Dunkelheit gerichtet, in die die Männer verschwunden waren. Erst langsam ließ die Härte aus ihrem Gesicht nach. Als sie sich zu Toragorn umwandte, lag in ihrem Ausdruck nicht nur Erschöpfung, sondern etwas Tieferes. Das Bewusstsein, dass sie gerade gemeinsam eine Schwelle überschritten hatten.
+
+„Ich glaube“, sagte sie leise, „unsere Wege trennen sich nicht so schnell.“
 
 Toragorn sah sie an.
 
-Länger als zuvor.
+Nicht flüchtig. Nicht prüfend.
 
-Und in diesem Blick lag etwas, das selbst ihn überraschte.
+Sondern ruhig. Direkt. Durchdringend.
 
-Vertrautheit.
+Und in diesem Blick lag etwas, das selbst ihn überraschte. Nicht Misstrauen. Nicht die vorsichtige Abwägung, mit der er sonst Menschen betrachtete. Sondern etwas, das näher an Vertrautheit war, als er es gewohnt war.
 
-„Ich bin froh, dass du da bist“, sagte er leise.
+„Du hast recht“, sagte er. „Allein wäre das heute… anders ausgegangen.“
 
-Für Jennina war es kein großer Moment.
+Ein fast unsichtbares Lächeln huschte über sein Gesicht. „Und ich bin froh, dass du da bist.“
 
-Kein dramatischer.
+Jennina blinzelte, als hätte sie diese Worte nicht erwartet. Nicht, weil sie unwahrscheinlich gewesen wären. Sondern weil sie in Toragorns Stimme so ungekünstelt klangen.
 
-Aber ein ehrlicher.
+Er sah sie weiterhin an.
 
-Und genau deshalb bedeutete er mehr als viele andere Worte.
+„Ich bin das nicht gewohnt“, sagte er. „Jemandem zu vertrauen.“
 
-Später, im warmen Licht des Gasthauses, als die Stimmen um sie herum leiser wurden und der Tag endgültig zur Ruhe kam, war es Toragorn, der einen Vorschlag machte, der so schlicht war, dass er fast beiläufig wirkte.
+Dann, nach einer kurzen Pause, fügte er hinzu: „Aber bei dir fühlt es sich nicht falsch an.“
 
-Ein gemeinsames Zimmer.
+Jennina antwortete nicht sofort. Sie musste es auch nicht. In ihren Augen lag alles, was gesagt werden musste. Kein Schwur. Kein großes Versprechen. Nur diese stille, vorsichtige Gewissheit, dass zwischen ihnen etwas entstanden war, das über Zweckgemeinschaft hinausging.
 
-Nicht aus Nähe.
+Als sie schließlich zurück zum Gasthaus gingen, war ihr Schritt langsamer. Nicht aus Müdigkeit allein, sondern weil der Abend ein anderes Gewicht bekommen hatte. Im Gasthaus selbst war es inzwischen ruhiger geworden. Weniger Gäste, weniger Lärm, nur noch das dumpfe Murmeln vereinzelter Gespräche, das Knistern des Feuers und der müde, geübte Blick des Wirts, der zwei Menschen erkannte, die einen langen Tag hinter sich hatten, ohne Fragen zu stellen.
 
-Sondern aus Zweck.
+Später, als sie das kleine Zimmer im oberen Stockwerk betraten — schlicht, zwei schmale Betten, ein Tisch, eine Kerze, hölzerne Wände, der Geruch nach Staub und warmer Luft — blieb Jennina kurz an der Tür stehen. Alles war einfach. Und doch fühlte sich dieser Raum merkwürdig wichtig an, als wäre er der erste Ort seit langem, der kein Ort des Rätsels, der Bedrohung oder des Befehls war.
 
-Und doch…
+Toragorn legte seine Ausrüstung geordnet ab, wie jemand, der Ordnung braucht, wenn innen zu viel in Bewegung ist. Jennina setzte sich auf die Bettkante und zog die Finger kurz über die Decke.
 
-war es mehr.
+Für einen Moment schwiegen beide.
 
-Jennina zögerte einen Moment.
+Dann sagte Jennina, fast mehr zu sich selbst als zu ihm: „Eisenfurt fühlt sich anders an als heute Morgen.“
 
-Dann nickte sie.
+Toragorn warf einen Blick zum Fenster, hinter dem nichts als Dunkelheit lag.
 
-In dieser Entscheidung lag kein Ende.
+„Ist es auch.“
 
-Kein Abschluss.
+Jennina sah zu ihm auf.
 
-Sondern der Anfang von etwas Neuem.
+„Aber wir sind nicht allein.“
 
-Denn während draußen die Nacht über Eisenfurt lag, still und unscheinbar, hatten sich zwei Wege verbunden, die zuvor nur zufällig nebeneinander verlaufen waren.
+Er nickte.
 
-Und irgendwo, tief unter der Oberfläche dieser Stadt…
+„Nein.“
 
-bewegte sich bereits das Nächste.
+Später, als die Kerze nur noch schwach brannte, sagte Jennina leise: „Morgen fangen wir an.“
+
+Toragorn antwortete ebenso leise: „Morgen.“
+
+Und so endete der Abend nicht mit Gewissheit, nicht mit Frieden und nicht einmal mit einem klaren Plan. Aber er endete mit etwas, das für beide gefährlicher und kostbarer zugleich war: Vertrauen.
+
+Während draußen Eisenfurt schlief, oder so tat, als schliefe es, lag unter den Mauern, unter den Straßen, unter den stillen Häusern bereits die nächste Bewegung der Geschichte verborgen. Die Graue Wacht war nur ein Name gewesen, bis sie an diesem Abend Gesichter bekommen hatte. Die Anker waren nur eine Bedrohung im Wald gewesen, bis sie erfahren hatten, dass sie Teil eines größeren Netzes waren. Und Toragorns Mal war nur eine alte Wunde gewesen, bis es im Licht der Enthüllungen zu einer Spur geworden war, der andere bereits folgten.
+
+Doch in diesem kleinen Zimmer, zwischen zwei einfachen Betten und einer fast niedergebrannten Kerze, war zum ersten Mal etwas entstanden, das all dem standhalten konnte:
+
+Nicht nur ein Bündnis.
+
+Sondern der Anfang eines gemeinsamen Weges.
