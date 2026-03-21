@@ -178,7 +178,7 @@ Keiner von beiden wusste zu diesem Zeitpunkt, dass dieses Treffen der Beginn ihr
 
 #Stufenaufstiege:
 ## Stufe 2
-- Datum: 19.03.2026
+- Datum: 19.03.2026 - nach Kapitel 2
 - TP: +7
 - Zauberbplätze: +1 1.Grad
 - ## Göttliche Macht:
