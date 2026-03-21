@@ -159,7 +159,7 @@ Keiner von beiden ahnte in diesem Moment, dass ihre Begegnung der Beginn eines g
 
 # Stufenaufstiege:
 ## Stufe 2
-- Datum: 19.03.2026
+- Datum: 19.03.2026 - nach Kapitel 2
 - TP: +9
 - Fähigkeit: Tatendrang
 
