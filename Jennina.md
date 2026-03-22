@@ -69,6 +69,12 @@
 - Untote vertreiben
 
 # Inventar
+## Karte von Eisenfurt mit Markierungen von seltsamen Ereignissen
+  - Nordviertel - Leute verschwinden oder ziehen weg
+  - Schmiede - seit Tagen geschlossen
+  - Platz nähe Garnison - fühlt sich "falsch" an
+  - Leere Lagerhäuser im Westen - hört man Geräusche, obwohl eigentlich leer
+
 ## Waffen
 - Streitkolben
 - Leichte Armbrust
