@@ -2,8 +2,8 @@
 - ***Name:*** Jennina
 - ***Volk:*** Waldelf
 - ***Klasse:*** Kleriker
-- ***Stufe:*** 2
-- ***XP:*** 680
+- ***Stufe:*** 3
+- ***XP:*** 955
 - ***Domäne:*** Natur
 - ***Gottheit:*** Mielikki
 - ***Hintergrund:*** Gelehrter
@@ -20,8 +20,8 @@
 - ***Charisma:*** 10 +0
 
 # Grundwerte
-- ***Trefferpunkte voll:*** 17
-- ***Trefferpunkte aktuell:*** 17
+- ***Trefferpunkte voll:*** 20
+- ***Trefferpunkte aktuell:*** 20
 - ***Rüstungsklasse:*** 15
 - ***Initiative:*** +2
 - ***Geschwindigkeit:*** 10,5 Meter
@@ -191,4 +191,9 @@ Keiner von beiden wusste zu diesem Zeitpunkt, dass dieses Treffen der Beginn ihr
 - ## Göttliche Macht:
 - Tiere und Pflanzen bezaubern
 - Untote vertreiben
+
+## Stufe 3
+- Datum (ohne Zauber) - 28.03.2026
+- TP: +3
+- Zauberplätze: +1 1.Grad / +2 2.Grad
 
