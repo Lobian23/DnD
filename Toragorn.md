@@ -2,8 +2,9 @@
 - ***Name:*** Toragorn
 - ***Volk:*** Mensch
 - ***Klasse:*** Kämpfer
-- ***Stufe:*** 2
-- ***XP:*** 680
+- ***Archetyp:*** Champion
+- ***Stufe:*** 3
+- ***XP:*** 955
 - ***Geschlecht:*** Männlich
 - ***Alter:*** 23 Jahre
 
@@ -16,8 +17,8 @@
 - ***Charisma:*** 9 -1
 
 # Grundwerte
-- ***Trefferpunkte voll:*** 21
-- ***Trefferpunkte aktuell:*** 21
+- ***Trefferpunkte voll:*** 27
+- ***Trefferpunkte aktuell:*** 27
 - ***Rüstungsklasse:*** 16
 - ***Initiative:*** +1
 - ***Geschwindigkeit:*** 9 Meter
@@ -162,4 +163,9 @@ Keiner von beiden ahnte in diesem Moment, dass ihre Begegnung der Beginn eines g
 - Datum: 19.03.2026 - nach Kapitel 2
 - TP: +9
 - Fähigkeit: Tatendrang
+
+## Stufe 3
+- Datum: 28.03.2026 - nach Zerstörung eines Ankerwesens unter der Garnison in Eisenfurt
+- TP: +6
+- Archetyp Champion
 
